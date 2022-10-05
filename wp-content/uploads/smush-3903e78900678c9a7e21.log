@@ -1,0 +1,1272 @@
+[2022-03-28 00:53:11 : INFO] - Re_Smush_It_Task with attachment ID : 768, autocreated on : March 28, 2022 12:53:11 
+[2022-03-28 00:58:35 : INFO] - 
+ 
+[2022-03-28 00:58:35 : INFO] - Header for logs at time:  Mon, 28 Mar 2022 00:58:35 +0000 on https://jk2333.com 
+[2022-03-28 00:58:35 : INFO] - WP: 5.9.2 
+[2022-03-28 00:58:35 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-03-28 00:58:35 : INFO] - MySQL: 8.0.24 
+[2022-03-28 00:58:35 : INFO] - WPLANG: zh_CN 
+[2022-03-28 00:58:35 : INFO] - Server: nginx/1.20.1 
+[2022-03-28 00:58:35 : INFO] - Outbound connections: N 
+[2022-03-28 00:58:35 : INFO] - safe_mode: 0 
+[2022-03-28 00:58:35 : INFO] - max_execution_time: 300 
+[2022-03-28 00:58:35 : INFO] - memory_limit: 256M (used: 14.6M | 2M) 
+[2022-03-28 00:58:35 : INFO] - multisite: N 
+[2022-03-28 00:58:35 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-03-28 00:58:35 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-03-28 00:58:35 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-03-28 00:58:35 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-03-28 00:58:35 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2022-03-28 00:58:35 : INFO] - Re_Smush_It_Task with attachment ID : 768, autocreated on : March 28, 2022 12:53:11 
+[2022-03-28 00:58:35 : INFO] - 75 
+[2022-03-28 00:58:37 : INFO] - Backing up the original image - 2022/03/carbon-updraft-pre-smush-original.png 
+[2022-03-28 00:58:37 : INFO] - Re_Smush_It_Task with attachment ID : 768, autocreated on : March 28, 2022 12:53:11 
+[2022-03-28 00:58:37 : INFO] - 75 
+[2022-03-28 00:58:38 : INFO] - Re_Smush_It_Task with attachment ID : 768, autocreated on : March 28, 2022 12:53:11 
+[2022-03-28 00:58:38 : INFO] - 75 
+[2022-03-28 00:58:40 : INFO] - Re_Smush_It_Task with attachment ID : 768, autocreated on : March 28, 2022 12:53:11 
+[2022-03-28 00:58:40 : INFO] - 75 
+[2022-03-28 00:58:40 : INFO] - Re_Smush_It_Task with attachment ID : 768, autocreated on : March 28, 2022 12:53:11 
+[2022-03-28 00:58:40 : INFO] - 75 
+[2022-03-28 00:58:42 : INFO] - Re_Smush_It_Task with attachment ID : 768, autocreated on : March 28, 2022 12:53:11 
+[2022-03-28 00:58:42 : INFO] - 75 
+[2022-03-28 00:58:44 : INFO] - Re_Smush_It_Task with attachment ID : 768, autocreated on : March 28, 2022 12:53:11 
+[2022-03-28 00:58:44 : INFO] - 75 
+[2022-03-28 00:58:45 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/03/carbon.png. 
+[2022-03-28 00:58:45 : INFO] - Completed processing task with ID : 33, and type 'smush' 
+[2022-03-28 00:58:45 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-03-28 00:58:45 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-03-28 00:58:45 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-03-28 00:58:45 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-03-28 01:08:45 : INFO] - 
+ 
+[2022-03-28 01:08:45 : INFO] - Header for logs at time:  Mon, 28 Mar 2022 01:08:45 +0000 on https://jk2333.com 
+[2022-03-28 01:08:45 : INFO] - WP: 5.9.2 
+[2022-03-28 01:08:45 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-03-28 01:08:45 : INFO] - MySQL: 8.0.24 
+[2022-03-28 01:08:45 : INFO] - WPLANG: zh_CN 
+[2022-03-28 01:08:45 : INFO] - Server: nginx/1.20.1 
+[2022-03-28 01:08:45 : INFO] - Outbound connections: N 
+[2022-03-28 01:08:45 : INFO] - safe_mode: 0 
+[2022-03-28 01:08:45 : INFO] - max_execution_time: 300 
+[2022-03-28 01:08:45 : INFO] - memory_limit: 256M (used: 14.5M | 2M) 
+[2022-03-28 01:08:45 : INFO] - multisite: N 
+[2022-03-28 01:08:45 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-03-28 01:08:45 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-03-28 01:24:42 : INFO] - Re_Smush_It_Task with attachment ID : 824, autocreated on : March 28, 2022 01:24:41 
+[2022-03-28 01:27:20 : INFO] - Re_Smush_It_Task with attachment ID : 825, autocreated on : March 28, 2022 01:27:20 
+[2022-03-28 01:32:41 : INFO] - 
+ 
+[2022-03-28 01:32:41 : INFO] - Header for logs at time:  Mon, 28 Mar 2022 01:32:41 +0000 on https://jk2333.com 
+[2022-03-28 01:32:41 : INFO] - WP: 5.9.2 
+[2022-03-28 01:32:41 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-03-28 01:32:41 : INFO] - MySQL: 8.0.24 
+[2022-03-28 01:32:41 : INFO] - WPLANG: zh_CN 
+[2022-03-28 01:32:41 : INFO] - Server: nginx/1.20.1 
+[2022-03-28 01:32:41 : INFO] - Outbound connections: N 
+[2022-03-28 01:32:41 : INFO] - safe_mode: 0 
+[2022-03-28 01:32:41 : INFO] - max_execution_time: 300 
+[2022-03-28 01:32:41 : INFO] - memory_limit: 256M (used: 14.5M | 2M) 
+[2022-03-28 01:32:41 : INFO] - multisite: N 
+[2022-03-28 01:32:41 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-03-28 01:32:41 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2022-03-28 01:32:41 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-03-28 01:32:41 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-03-28 01:32:41 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2022-03-28 01:32:41 : INFO] - Task with ID 34 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-03-28 01:32:41 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2022-03-28 01:32:41 : INFO] - Re_Smush_It_Task with attachment ID : 825, autocreated on : March 28, 2022 01:27:20 
+[2022-03-28 01:32:41 : INFO] - 75 
+[2022-03-28 01:32:42 : INFO] - Backing up the original image - 2022/03/p792395713-updraft-pre-smush-original.jpg 
+[2022-03-28 01:32:42 : INFO] - Re_Smush_It_Task with attachment ID : 825, autocreated on : March 28, 2022 01:27:20 
+[2022-03-28 01:32:42 : INFO] - 75 
+[2022-03-28 01:32:43 : INFO] - Re_Smush_It_Task with attachment ID : 825, autocreated on : March 28, 2022 01:27:20 
+[2022-03-28 01:32:43 : INFO] - 75 
+[2022-03-28 01:32:45 : INFO] - Re_Smush_It_Task with attachment ID : 825, autocreated on : March 28, 2022 01:27:20 
+[2022-03-28 01:32:45 : INFO] - 75 
+[2022-03-28 01:32:46 : INFO] - Re_Smush_It_Task with attachment ID : 825, autocreated on : March 28, 2022 01:27:20 
+[2022-03-28 01:32:46 : INFO] - 75 
+[2022-03-28 01:32:47 : INFO] - Re_Smush_It_Task with attachment ID : 825, autocreated on : March 28, 2022 01:27:20 
+[2022-03-28 01:32:47 : INFO] - 75 
+[2022-03-28 01:32:49 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/03/p792395713.jpg. 
+[2022-03-28 01:32:49 : INFO] - Completed processing task with ID : 35, and type 'smush' 
+[2022-03-28 01:32:49 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-03-28 01:32:49 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2022-03-28 01:32:49 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-03-28 01:32:49 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2022-03-28 01:43:06 : INFO] - 
+ 
+[2022-03-28 01:43:06 : INFO] - Header for logs at time:  Mon, 28 Mar 2022 01:43:06 +0000 on https://jk2333.com 
+[2022-03-28 01:43:06 : INFO] - WP: 5.9.2 
+[2022-03-28 01:43:06 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-03-28 01:43:06 : INFO] - MySQL: 8.0.24 
+[2022-03-28 01:43:06 : INFO] - WPLANG: zh_CN 
+[2022-03-28 01:43:06 : INFO] - Server: nginx/1.20.1 
+[2022-03-28 01:43:06 : INFO] - Outbound connections: N 
+[2022-03-28 01:43:06 : INFO] - safe_mode: 0 
+[2022-03-28 01:43:06 : INFO] - max_execution_time: 300 
+[2022-03-28 01:43:06 : INFO] - memory_limit: 256M (used: 14.6M | 2M) 
+[2022-03-28 01:43:06 : INFO] - multisite: N 
+[2022-03-28 01:43:06 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-03-28 01:43:06 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-06-23 07:15:45 : INFO] - Re_Smush_It_Task with attachment ID : 860, autocreated on : June 23, 2022 07:15:45 
+[2022-06-23 07:21:19 : INFO] - 
+ 
+[2022-06-23 07:21:19 : INFO] - Header for logs at time:  Thu, 23 Jun 2022 07:21:19 +0000 on https://jk2333.com 
+[2022-06-23 07:21:19 : INFO] - WP: 6.0 
+[2022-06-23 07:21:19 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-06-23 07:21:19 : INFO] - MySQL: 8.0.24 
+[2022-06-23 07:21:19 : INFO] - WPLANG: zh_CN 
+[2022-06-23 07:21:19 : INFO] - Server: nginx/1.20.1 
+[2022-06-23 07:21:19 : INFO] - Outbound connections: N 
+[2022-06-23 07:21:19 : INFO] - safe_mode: 0 
+[2022-06-23 07:21:19 : INFO] - max_execution_time: 300 
+[2022-06-23 07:21:19 : INFO] - memory_limit: 256M (used: 15M | 2M) 
+[2022-06-23 07:21:19 : INFO] - multisite: N 
+[2022-06-23 07:21:19 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-06-23 07:21:19 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-06-23 07:21:19 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-06-23 07:21:19 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-06-23 07:21:19 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2022-06-23 07:21:19 : INFO] - Re_Smush_It_Task with attachment ID : 860, autocreated on : June 23, 2022 07:15:45 
+[2022-06-23 07:21:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-23 07:21:19 : INFO] - 75 
+[2022-06-23 07:21:20 : INFO] - Backing up the original image - 2022/06/l1jubomir-zarkovic-bt_ZtkCxLs4-unsplash-scaled-updraft-pre-smush-original.jpg 
+[2022-06-23 07:21:20 : INFO] - Re_Smush_It_Task with attachment ID : 860, autocreated on : June 23, 2022 07:15:45 
+[2022-06-23 07:21:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-23 07:21:20 : INFO] - 75 
+[2022-06-23 07:21:21 : INFO] - Re_Smush_It_Task with attachment ID : 860, autocreated on : June 23, 2022 07:15:45 
+[2022-06-23 07:21:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-23 07:21:21 : INFO] - 75 
+[2022-06-23 07:21:22 : INFO] - Re_Smush_It_Task with attachment ID : 860, autocreated on : June 23, 2022 07:15:45 
+[2022-06-23 07:21:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-23 07:21:22 : INFO] - 75 
+[2022-06-23 07:21:22 : INFO] - Re_Smush_It_Task with attachment ID : 860, autocreated on : June 23, 2022 07:15:45 
+[2022-06-23 07:21:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-23 07:21:22 : INFO] - 75 
+[2022-06-23 07:21:23 : INFO] - Re_Smush_It_Task with attachment ID : 860, autocreated on : June 23, 2022 07:15:45 
+[2022-06-23 07:21:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-23 07:21:23 : INFO] - 75 
+[2022-06-23 07:21:25 : INFO] - Re_Smush_It_Task with attachment ID : 860, autocreated on : June 23, 2022 07:15:45 
+[2022-06-23 07:21:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-23 07:21:25 : INFO] - 75 
+[2022-06-23 07:21:26 : INFO] - Re_Smush_It_Task with attachment ID : 860, autocreated on : June 23, 2022 07:15:45 
+[2022-06-23 07:21:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-23 07:21:26 : INFO] - 75 
+[2022-06-23 07:21:27 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/06/l1jubomir-zarkovic-bt_ZtkCxLs4-unsplash-scaled.jpg. 
+[2022-06-23 07:21:27 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2022-06-23 07:21:27 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-06-23 07:21:27 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-06-23 07:21:27 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-06-23 07:21:27 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-06-23 07:32:46 : INFO] - 
+ 
+[2022-06-23 07:32:46 : INFO] - Header for logs at time:  Thu, 23 Jun 2022 07:32:46 +0000 on https://jk2333.com 
+[2022-06-23 07:32:46 : INFO] - WP: 6.0 
+[2022-06-23 07:32:46 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-06-23 07:32:46 : INFO] - MySQL: 8.0.24 
+[2022-06-23 07:32:46 : INFO] - WPLANG: zh_CN 
+[2022-06-23 07:32:46 : INFO] - Server: nginx/1.20.1 
+[2022-06-23 07:32:46 : INFO] - Outbound connections: N 
+[2022-06-23 07:32:46 : INFO] - safe_mode: 0 
+[2022-06-23 07:32:46 : INFO] - max_execution_time: 300 
+[2022-06-23 07:32:46 : INFO] - memory_limit: 256M (used: 15M | 2M) 
+[2022-06-23 07:32:46 : INFO] - multisite: N 
+[2022-06-23 07:32:46 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-06-23 07:32:46 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-06-30 08:46:53 : INFO] - Re_Smush_It_Task with attachment ID : 868, autocreated on : June 30, 2022 08:46:53 
+[2022-06-30 08:53:15 : INFO] - 
+ 
+[2022-06-30 08:53:15 : INFO] - Header for logs at time:  Thu, 30 Jun 2022 08:53:15 +0000 on https://jk2333.com 
+[2022-06-30 08:53:15 : INFO] - WP: 6.0 
+[2022-06-30 08:53:15 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-06-30 08:53:15 : INFO] - MySQL: 8.0.24 
+[2022-06-30 08:53:15 : INFO] - WPLANG: zh_CN 
+[2022-06-30 08:53:15 : INFO] - Server: nginx/1.20.1 
+[2022-06-30 08:53:15 : INFO] - Outbound connections: N 
+[2022-06-30 08:53:15 : INFO] - safe_mode: 0 
+[2022-06-30 08:53:15 : INFO] - max_execution_time: 300 
+[2022-06-30 08:53:15 : INFO] - memory_limit: 256M (used: 15.2M | 2M) 
+[2022-06-30 08:53:15 : INFO] - multisite: N 
+[2022-06-30 08:53:15 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-06-30 08:53:15 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-06-30 08:53:15 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-06-30 08:53:15 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-06-30 08:53:15 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2022-06-30 08:53:15 : INFO] - Re_Smush_It_Task with attachment ID : 868, autocreated on : June 30, 2022 08:46:53 
+[2022-06-30 08:53:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-30 08:53:15 : INFO] - 75 
+[2022-06-30 08:53:23 : INFO] - Backing up the original image - 2022/06/charlotte-SUpvIqLW5YI-unsplash-scaled-updraft-pre-smush-original.jpg 
+[2022-06-30 08:53:23 : INFO] - Re_Smush_It_Task with attachment ID : 868, autocreated on : June 30, 2022 08:46:53 
+[2022-06-30 08:53:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-30 08:53:23 : INFO] - 75 
+[2022-06-30 08:53:27 : INFO] - Re_Smush_It_Task with attachment ID : 868, autocreated on : June 30, 2022 08:46:53 
+[2022-06-30 08:53:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-30 08:53:27 : INFO] - 75 
+[2022-06-30 08:53:29 : INFO] - Re_Smush_It_Task with attachment ID : 868, autocreated on : June 30, 2022 08:46:53 
+[2022-06-30 08:53:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-30 08:53:29 : INFO] - 75 
+[2022-06-30 08:53:32 : INFO] - Re_Smush_It_Task with attachment ID : 868, autocreated on : June 30, 2022 08:46:53 
+[2022-06-30 08:53:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-30 08:53:32 : INFO] - 75 
+[2022-06-30 08:53:35 : INFO] - Re_Smush_It_Task with attachment ID : 868, autocreated on : June 30, 2022 08:46:53 
+[2022-06-30 08:53:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-30 08:53:35 : INFO] - 75 
+[2022-06-30 08:53:40 : INFO] - Re_Smush_It_Task with attachment ID : 868, autocreated on : June 30, 2022 08:46:53 
+[2022-06-30 08:53:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-30 08:53:40 : INFO] - 75 
+[2022-06-30 08:53:44 : INFO] - Re_Smush_It_Task with attachment ID : 868, autocreated on : June 30, 2022 08:46:53 
+[2022-06-30 08:53:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-30 08:53:44 : INFO] - 75 
+[2022-06-30 08:53:48 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/06/charlotte-SUpvIqLW5YI-unsplash-scaled.jpg. 
+[2022-06-30 08:53:48 : INFO] - Completed processing task with ID : 37, and type 'smush' 
+[2022-06-30 08:53:48 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-06-30 08:53:48 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-06-30 08:53:48 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-06-30 08:53:48 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-06-30 09:04:46 : INFO] - 
+ 
+[2022-06-30 09:04:46 : INFO] - Header for logs at time:  Thu, 30 Jun 2022 09:04:46 +0000 on https://jk2333.com 
+[2022-06-30 09:04:46 : INFO] - WP: 6.0 
+[2022-06-30 09:04:46 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-06-30 09:04:46 : INFO] - MySQL: 8.0.24 
+[2022-06-30 09:04:46 : INFO] - WPLANG: zh_CN 
+[2022-06-30 09:04:46 : INFO] - Server: nginx/1.20.1 
+[2022-06-30 09:04:46 : INFO] - Outbound connections: N 
+[2022-06-30 09:04:46 : INFO] - safe_mode: 0 
+[2022-06-30 09:04:46 : INFO] - max_execution_time: 300 
+[2022-06-30 09:04:46 : INFO] - memory_limit: 256M (used: 15M | 2M) 
+[2022-06-30 09:04:46 : INFO] - multisite: N 
+[2022-06-30 09:04:46 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-06-30 09:04:46 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-06-30 12:39:35 : INFO] - Re_Smush_It_Task with attachment ID : 874, autocreated on : June 30, 2022 12:39:35 
+[2022-06-30 12:44:44 : INFO] - 
+ 
+[2022-06-30 12:44:44 : INFO] - Header for logs at time:  Thu, 30 Jun 2022 12:44:44 +0000 on https://jk2333.com 
+[2022-06-30 12:44:44 : INFO] - WP: 6.0 
+[2022-06-30 12:44:44 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-06-30 12:44:44 : INFO] - MySQL: 8.0.24 
+[2022-06-30 12:44:44 : INFO] - WPLANG: zh_CN 
+[2022-06-30 12:44:44 : INFO] - Server: nginx/1.20.1 
+[2022-06-30 12:44:44 : INFO] - Outbound connections: N 
+[2022-06-30 12:44:44 : INFO] - safe_mode: 0 
+[2022-06-30 12:44:44 : INFO] - max_execution_time: 300 
+[2022-06-30 12:44:44 : INFO] - memory_limit: 256M (used: 15M | 2M) 
+[2022-06-30 12:44:44 : INFO] - multisite: N 
+[2022-06-30 12:44:44 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-06-30 12:44:44 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-06-30 12:44:44 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-06-30 12:44:44 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-06-30 12:44:44 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2022-06-30 12:44:44 : INFO] - Re_Smush_It_Task with attachment ID : 874, autocreated on : June 30, 2022 12:39:35 
+[2022-06-30 12:44:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-30 12:44:44 : INFO] - 75 
+[2022-06-30 12:44:58 : INFO] - Task with ID 38 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-06-30 12:44:58 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/a7f712dde53f856e702b16243ecfdf22\/_src_cf8377e918bc9ca5e173d0226382e338.png","dest":"http:\/\/par3.static.resmush.it\/a7f712dde53f856e702b16243ecfdf22\/cf8377e918bc9ca5e173d0226382e338.png","src_size":228309,"dest_size":228309,"percent":0,"output":"json","expires":"Thu, 30 Jun 2022 14:49:53 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-06-30 12:44:58 : INFO] - Re_Smush_It_Task with attachment ID : 874, autocreated on : June 30, 2022 12:39:35 
+[2022-06-30 12:44:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-30 12:44:58 : INFO] - 75 
+[2022-06-30 12:45:10 : INFO] - Task with ID 38 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-06-30 12:45:10 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/8471006a21c81be4b5f4442a176b4124\/_src_cf8377e918bc9ca5e173d0226382e338-300x97.png","dest":"http:\/\/par3.static.resmush.it\/8471006a21c81be4b5f4442a176b4124\/cf8377e918bc9ca5e173d0226382e338-300x97.png","src_size":39923,"dest_size":14858,"percent":63,"output":"json","expires":"Thu, 30 Jun 2022 14:50:05 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-06-30 12:45:10 : INFO] - Re_Smush_It_Task with attachment ID : 874, autocreated on : June 30, 2022 12:39:35 
+[2022-06-30 12:45:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-30 12:45:10 : INFO] - 75 
+[2022-06-30 12:45:21 : INFO] - Re_Smush_It_Task with attachment ID : 874, autocreated on : June 30, 2022 12:39:35 
+[2022-06-30 12:45:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-30 12:45:21 : INFO] - 75 
+[2022-06-30 12:45:22 : INFO] - Task with ID 38 and type (smush) failed with error code http_request_failed - cURL error 52: Empty reply from server 
+[2022-06-30 12:45:22 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-06-30 12:45:22 : INFO] - Re_Smush_It_Task with attachment ID : 874, autocreated on : June 30, 2022 12:39:35 
+[2022-06-30 12:45:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-30 12:45:22 : INFO] - 75 
+[2022-06-30 12:45:51 : INFO] - Task with ID 38 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-06-30 12:45:51 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/6c7523f071cc14c6df25a771da36075c\/_src_cf8377e918bc9ca5e173d0226382e338-768x248.png","dest":"http:\/\/par3.static.resmush.it\/6c7523f071cc14c6df25a771da36075c\/cf8377e918bc9ca5e173d0226382e338-768x248.png","src_size":235525,"dest_size":81424,"percent":65,"output":"json","expires":"Thu, 30 Jun 2022 14:50:50 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-06-30 12:45:51 : INFO] - Re_Smush_It_Task with attachment ID : 874, autocreated on : June 30, 2022 12:39:35 
+[2022-06-30 12:45:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-30 12:45:51 : INFO] - 75 
+[2022-06-30 12:46:09 : INFO] - Task with ID 38 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-06-30 12:46:09 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/078d32652295e83c2644945619846066\/_src_cf8377e918bc9ca5e173d0226382e338-1536x496.png","dest":"http:\/\/par2.static.resmush.it\/078d32652295e83c2644945619846066\/cf8377e918bc9ca5e173d0226382e338-1536x496.png","src_size":908644,"dest_size":319445,"percent":65,"output":"json","expires":"Thu, 30 Jun 2022 14:51:03 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-06-30 12:46:09 : INFO] - Re_Smush_It_Task with attachment ID : 874, autocreated on : June 30, 2022 12:39:35 
+[2022-06-30 12:46:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-06-30 12:46:09 : INFO] - 75 
+[2022-06-30 12:46:20 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/06/cf8377e918bc9ca5e173d0226382e338.png. 
+[2022-06-30 12:46:20 : INFO] - Completed processing task with ID : 38, and type 'smush' 
+[2022-06-30 12:46:20 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-06-30 12:46:20 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-06-30 12:46:20 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-06-30 12:46:20 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-06-30 12:56:04 : INFO] - 
+ 
+[2022-06-30 12:56:04 : INFO] - Header for logs at time:  Thu, 30 Jun 2022 12:56:04 +0000 on https://jk2333.com 
+[2022-06-30 12:56:04 : INFO] - WP: 6.0 
+[2022-06-30 12:56:04 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-06-30 12:56:04 : INFO] - MySQL: 8.0.24 
+[2022-06-30 12:56:04 : INFO] - WPLANG: zh_CN 
+[2022-06-30 12:56:04 : INFO] - Server: nginx/1.20.1 
+[2022-06-30 12:56:04 : INFO] - Outbound connections: N 
+[2022-06-30 12:56:04 : INFO] - safe_mode: 0 
+[2022-06-30 12:56:04 : INFO] - max_execution_time: 300 
+[2022-06-30 12:56:04 : INFO] - memory_limit: 256M (used: 15.1M | 2M) 
+[2022-06-30 12:56:04 : INFO] - multisite: N 
+[2022-06-30 12:56:04 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-06-30 12:56:04 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-07-03 16:17:58 : INFO] - Re_Smush_It_Task with attachment ID : 888, autocreated on : July 03, 2022 04:17:58 
+[2022-07-13 16:14:55 : INFO] - Re_Smush_It_Task with attachment ID : 892, autocreated on : July 13, 2022 04:14:55 
+[2022-07-13 16:22:06 : INFO] - 
+ 
+[2022-07-13 16:22:06 : INFO] - Header for logs at time:  Wed, 13 Jul 2022 16:22:06 +0000 on https://jk2333.com 
+[2022-07-13 16:22:06 : INFO] - WP: 6.0.1 
+[2022-07-13 16:22:06 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-07-13 16:22:06 : INFO] - MySQL: 8.0.24 
+[2022-07-13 16:22:06 : INFO] - WPLANG: zh_CN 
+[2022-07-13 16:22:06 : INFO] - Server: nginx/1.20.1 
+[2022-07-13 16:22:06 : INFO] - Outbound connections: N 
+[2022-07-13 16:22:06 : INFO] - safe_mode: 0 
+[2022-07-13 16:22:06 : INFO] - max_execution_time: 300 
+[2022-07-13 16:22:06 : INFO] - memory_limit: 256M (used: 15.1M | 2M) 
+[2022-07-13 16:22:06 : INFO] - multisite: N 
+[2022-07-13 16:22:06 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-07-13 16:22:06 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2022-07-13 16:22:06 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-07-13 16:22:06 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-07-13 16:22:06 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2022-07-13 16:22:06 : INFO] - Re_Smush_It_Task with attachment ID : 888, autocreated on : July 03, 2022 04:17:58 
+[2022-07-13 16:22:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-13 16:22:06 : INFO] - 75 
+[2022-07-13 16:22:08 : INFO] - Task with ID 39 and type (smush) failed with error code http_request_failed - cURL error 52: Empty reply from server 
+[2022-07-13 16:22:08 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-07-13 16:22:08 : INFO] - Re_Smush_It_Task with attachment ID : 888, autocreated on : July 03, 2022 04:17:58 
+[2022-07-13 16:22:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-13 16:22:08 : INFO] - 75 
+[2022-07-13 16:22:13 : INFO] - Re_Smush_It_Task with attachment ID : 888, autocreated on : July 03, 2022 04:17:58 
+[2022-07-13 16:22:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-13 16:22:13 : INFO] - 75 
+[2022-07-13 16:22:19 : INFO] - Re_Smush_It_Task with attachment ID : 888, autocreated on : July 03, 2022 04:17:58 
+[2022-07-13 16:22:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-13 16:22:19 : INFO] - 75 
+[2022-07-13 16:22:38 : INFO] - Re_Smush_It_Task with attachment ID : 888, autocreated on : July 03, 2022 04:17:58 
+[2022-07-13 16:22:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-13 16:22:38 : INFO] - 75 
+[2022-07-13 16:22:59 : INFO] - Task with ID 39 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-07-13 16:22:59 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-07-13 16:22:59 : INFO] - Re_Smush_It_Task with attachment ID : 888, autocreated on : July 03, 2022 04:17:58 
+[2022-07-13 16:22:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-13 16:22:59 : INFO] - 75 
+[2022-07-13 16:23:02 : INFO] - Task with ID 39 and type (smush) failed with error code http_request_failed - cURL error 52: Empty reply from server 
+[2022-07-13 16:23:02 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-07-13 16:23:02 : INFO] - Re_Smush_It_Task with attachment ID : 888, autocreated on : July 03, 2022 04:17:58 
+[2022-07-13 16:23:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-13 16:23:02 : INFO] - 75 
+[2022-07-13 16:23:20 : INFO] - Task with ID 39 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-07-13 16:23:20 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/4ba75880ad399b7f4e1f9a3a984bca98\/_src_ilya-chunin-PaDCirdhIqY-unsplash-2048x1536.jpg","dest":"http:\/\/par3.static.resmush.it\/4ba75880ad399b7f4e1f9a3a984bca98\/ilya-chunin-PaDCirdhIqY-unsplash-2048x1536.jpg","src_size":161556,"dest_size":129506,"percent":20,"output":"json","expires":"Wed, 13 Jul 2022 18:28:14 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-07-13 16:23:20 : INFO] - Re_Smush_It_Task with attachment ID : 888, autocreated on : July 03, 2022 04:17:58 
+[2022-07-13 16:23:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-13 16:23:20 : INFO] - 75 
+[2022-07-13 16:23:33 : INFO] - Task with ID 39 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-07-13 16:23:33 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/07acd39f9e7e57139b91568ff38152dd\/_src_ilya-chunin-PaDCirdhIqY-unsplash-825x510.jpg","dest":"http:\/\/par2.static.resmush.it\/07acd39f9e7e57139b91568ff38152dd\/ilya-chunin-PaDCirdhIqY-unsplash-825x510.jpg","src_size":26890,"dest_size":22675,"percent":16,"output":"json","expires":"Wed, 13 Jul 2022 18:28:28 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-07-13 16:23:33 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/07/ilya-chunin-PaDCirdhIqY-unsplash-scaled.jpg. 
+[2022-07-13 16:23:33 : INFO] - Completed processing task with ID : 39, and type 'smush' 
+[2022-07-13 16:23:33 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2022-07-13 16:23:33 : INFO] - Re_Smush_It_Task with attachment ID : 892, autocreated on : July 13, 2022 04:14:55 
+[2022-07-13 16:23:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-13 16:23:33 : INFO] - 75 
+[2022-07-13 16:23:42 : INFO] - Task with ID 40 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-07-13 16:23:42 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/2f09a3e25cb88647acc290aaebcf069b\/_src_-1.jpg","dest":"http:\/\/par2.static.resmush.it\/2f09a3e25cb88647acc290aaebcf069b\/-1.jpg","src_size":37673,"dest_size":15526,"percent":59,"output":"json","expires":"Wed, 13 Jul 2022 18:28:41 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-07-13 16:23:42 : INFO] - Re_Smush_It_Task with attachment ID : 892, autocreated on : July 13, 2022 04:14:55 
+[2022-07-13 16:23:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-13 16:23:42 : INFO] - 75 
+[2022-07-13 16:23:49 : INFO] - Task with ID 40 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-07-13 16:23:49 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/67257fedd7243a60b0b3624d571dfec3\/_src_-1-300x169.jpg","dest":"http:\/\/par2.static.resmush.it\/67257fedd7243a60b0b3624d571dfec3\/-1-300x169.jpg","src_size":1884,"dest_size":1059,"percent":44,"output":"json","expires":"Wed, 13 Jul 2022 18:28:44 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-07-13 16:23:49 : INFO] - Re_Smush_It_Task with attachment ID : 892, autocreated on : July 13, 2022 04:14:55 
+[2022-07-13 16:23:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-13 16:23:49 : INFO] - 75 
+[2022-07-13 16:24:12 : INFO] - Task with ID 40 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-07-13 16:24:12 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/7775869ff56b245eea70aee49e2d5c06\/_src_-1-1024x576.jpg","dest":"http:\/\/par3.static.resmush.it\/7775869ff56b245eea70aee49e2d5c06\/-1-1024x576.jpg","src_size":11314,"dest_size":5439,"percent":52,"output":"json","expires":"Wed, 13 Jul 2022 18:29:07 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-07-13 16:24:12 : INFO] - Re_Smush_It_Task with attachment ID : 892, autocreated on : July 13, 2022 04:14:55 
+[2022-07-13 16:24:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-13 16:24:12 : INFO] - 75 
+[2022-07-13 16:24:22 : INFO] - Re_Smush_It_Task with attachment ID : 892, autocreated on : July 13, 2022 04:14:55 
+[2022-07-13 16:24:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-13 16:24:22 : INFO] - 75 
+[2022-07-13 16:24:30 : INFO] - Task with ID 40 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-07-13 16:24:30 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/a699d408de62043578385f2eb9025dfe\/_src_-1-768x432.jpg","dest":"http:\/\/par2.static.resmush.it\/a699d408de62043578385f2eb9025dfe\/-1-768x432.jpg","src_size":6890,"dest_size":3377,"percent":51,"output":"json","expires":"Wed, 13 Jul 2022 18:29:25 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-07-13 16:24:30 : INFO] - Re_Smush_It_Task with attachment ID : 892, autocreated on : July 13, 2022 04:14:55 
+[2022-07-13 16:24:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-13 16:24:30 : INFO] - 75 
+[2022-07-13 16:24:42 : INFO] - Task with ID 40 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-07-13 16:24:42 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/4fd5b04392fe1a239edbeef1b81ea133\/_src_-1-1536x864.jpg","dest":"http:\/\/par2.static.resmush.it\/4fd5b04392fe1a239edbeef1b81ea133\/-1-1536x864.jpg","src_size":23673,"dest_size":10560,"percent":55,"output":"json","expires":"Wed, 13 Jul 2022 18:29:37 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-07-13 16:24:42 : INFO] - Re_Smush_It_Task with attachment ID : 892, autocreated on : July 13, 2022 04:14:55 
+[2022-07-13 16:24:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-13 16:24:42 : INFO] - 75 
+[2022-07-13 16:24:46 : INFO] - Task with ID 40 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-07-13 16:24:46 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/8ea7207a411759078a4f22457782edb6\/_src_-1-825x510.jpg","dest":"http:\/\/par2.static.resmush.it\/8ea7207a411759078a4f22457782edb6\/-1-825x510.jpg","src_size":8568,"dest_size":4165,"percent":51,"output":"json","expires":"Wed, 13 Jul 2022 18:29:46 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-07-13 16:24:46 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/07/未标题-1.jpg. 
+[2022-07-13 16:24:46 : INFO] - Completed processing task with ID : 40, and type 'smush' 
+[2022-07-13 16:24:46 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-07-13 16:24:46 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2022-07-13 16:24:46 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-07-13 16:24:46 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2022-07-13 16:33:30 : INFO] - 
+ 
+[2022-07-13 16:33:30 : INFO] - Header for logs at time:  Wed, 13 Jul 2022 16:33:30 +0000 on https://jk2333.com 
+[2022-07-13 16:33:30 : INFO] - WP: 6.0.1 
+[2022-07-13 16:33:30 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-07-13 16:33:30 : INFO] - MySQL: 8.0.24 
+[2022-07-13 16:33:30 : INFO] - WPLANG: zh_CN 
+[2022-07-13 16:33:30 : INFO] - Server: nginx/1.20.1 
+[2022-07-13 16:33:30 : INFO] - Outbound connections: N 
+[2022-07-13 16:33:30 : INFO] - safe_mode: 0 
+[2022-07-13 16:33:30 : INFO] - max_execution_time: 300 
+[2022-07-13 16:33:30 : INFO] - memory_limit: 256M (used: 15.2M | 4M) 
+[2022-07-13 16:33:30 : INFO] - multisite: N 
+[2022-07-13 16:33:30 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-07-13 16:33:30 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-07-29 14:14:05 : INFO] - Re_Smush_It_Task with attachment ID : 896, autocreated on : July 29, 2022 02:14:05 
+[2022-07-29 14:19:19 : INFO] - 
+ 
+[2022-07-29 14:19:19 : INFO] - Header for logs at time:  Fri, 29 Jul 2022 14:19:19 +0000 on https://jk2333.com 
+[2022-07-29 14:19:19 : INFO] - WP: 6.0.1 
+[2022-07-29 14:19:19 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-07-29 14:19:19 : INFO] - MySQL: 8.0.24 
+[2022-07-29 14:19:19 : INFO] - WPLANG: zh_CN 
+[2022-07-29 14:19:19 : INFO] - Server: nginx/1.20.1 
+[2022-07-29 14:19:19 : INFO] - Outbound connections: N 
+[2022-07-29 14:19:19 : INFO] - safe_mode: 0 
+[2022-07-29 14:19:19 : INFO] - max_execution_time: 300 
+[2022-07-29 14:19:19 : INFO] - memory_limit: 256M (used: 15M | 2M) 
+[2022-07-29 14:19:19 : INFO] - multisite: N 
+[2022-07-29 14:19:19 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-07-29 14:19:19 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-07-29 14:19:19 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-07-29 14:19:19 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-07-29 14:19:19 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2022-07-29 14:19:19 : INFO] - Re_Smush_It_Task with attachment ID : 896, autocreated on : July 29, 2022 02:14:05 
+[2022-07-29 14:19:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-29 14:19:19 : INFO] - 75 
+[2022-07-29 14:19:32 : INFO] - Task with ID 41 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-07-29 14:19:32 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/0b1fb8f2e81cf58f1476a31461f6cfe7\/_src_-1.png","dest":"http:\/\/par3.static.resmush.it\/0b1fb8f2e81cf58f1476a31461f6cfe7\/-1.png","src_size":44414,"dest_size":15221,"percent":66,"output":"json","expires":"Fri, 29 Jul 2022 16:24:27 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-07-29 14:19:32 : INFO] - Re_Smush_It_Task with attachment ID : 896, autocreated on : July 29, 2022 02:14:05 
+[2022-07-29 14:19:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-29 14:19:32 : INFO] - 75 
+[2022-07-29 14:19:35 : INFO] - Task with ID 41 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-07-29 14:19:35 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/1dea00fc9084f51d6b3b37fcaf9c3f81\/_src_-1-300x169.png","dest":"http:\/\/par2.static.resmush.it\/1dea00fc9084f51d6b3b37fcaf9c3f81\/-1-300x169.png","src_size":5133,"dest_size":2532,"percent":51,"output":"json","expires":"Fri, 29 Jul 2022 16:24:35 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-07-29 14:19:35 : INFO] - Re_Smush_It_Task with attachment ID : 896, autocreated on : July 29, 2022 02:14:05 
+[2022-07-29 14:19:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-29 14:19:35 : INFO] - 75 
+[2022-07-29 14:19:41 : INFO] - Task with ID 41 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-07-29 14:19:41 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/82ece9acc61bab51a12c4b0ba366e85b\/_src_-1-1024x576.png","dest":"http:\/\/par3.static.resmush.it\/82ece9acc61bab51a12c4b0ba366e85b\/-1-1024x576.png","src_size":23720,"dest_size":8713,"percent":63,"output":"json","expires":"Fri, 29 Jul 2022 16:24:40 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-07-29 14:19:41 : INFO] - Re_Smush_It_Task with attachment ID : 896, autocreated on : July 29, 2022 02:14:05 
+[2022-07-29 14:19:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-29 14:19:41 : INFO] - 75 
+[2022-07-29 14:19:49 : INFO] - Task with ID 41 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-07-29 14:19:49 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/5142c7bafef28961d00a953e7bf378fd\/_src_-1-150x150.png","dest":"http:\/\/par3.static.resmush.it\/5142c7bafef28961d00a953e7bf378fd\/-1-150x150.png","src_size":4233,"dest_size":2283,"percent":46,"output":"json","expires":"Fri, 29 Jul 2022 16:24:48 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-07-29 14:19:49 : INFO] - Re_Smush_It_Task with attachment ID : 896, autocreated on : July 29, 2022 02:14:05 
+[2022-07-29 14:19:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-29 14:19:49 : INFO] - 75 
+[2022-07-29 14:19:55 : INFO] - Re_Smush_It_Task with attachment ID : 896, autocreated on : July 29, 2022 02:14:05 
+[2022-07-29 14:19:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-29 14:19:55 : INFO] - 75 
+[2022-07-29 14:20:05 : INFO] - Task with ID 41 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-07-29 14:20:05 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/2799bf155ceda5ef322a1df8f8fbfb98\/_src_-1-1536x864.png","dest":"http:\/\/par3.static.resmush.it\/2799bf155ceda5ef322a1df8f8fbfb98\/-1-1536x864.png","src_size":40681,"dest_size":14290,"percent":65,"output":"json","expires":"Fri, 29 Jul 2022 16:25:00 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-07-29 14:20:05 : INFO] - Re_Smush_It_Task with attachment ID : 896, autocreated on : July 29, 2022 02:14:05 
+[2022-07-29 14:20:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-07-29 14:20:05 : INFO] - 75 
+[2022-07-29 14:20:26 : INFO] - Task with ID 41 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-07-29 14:20:26 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-07-29 14:20:26 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/07/未标题-1.png. 
+[2022-07-29 14:20:26 : INFO] - Completed processing task with ID : 41, and type 'smush' 
+[2022-07-29 14:20:26 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-07-29 14:20:26 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-07-29 14:20:26 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-07-29 14:20:26 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-07-29 14:31:08 : INFO] - 
+ 
+[2022-07-29 14:31:08 : INFO] - Header for logs at time:  Fri, 29 Jul 2022 14:31:08 +0000 on https://jk2333.com 
+[2022-07-29 14:31:08 : INFO] - WP: 6.0.1 
+[2022-07-29 14:31:08 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-07-29 14:31:08 : INFO] - MySQL: 8.0.24 
+[2022-07-29 14:31:08 : INFO] - WPLANG: zh_CN 
+[2022-07-29 14:31:08 : INFO] - Server: nginx/1.20.1 
+[2022-07-29 14:31:08 : INFO] - Outbound connections: N 
+[2022-07-29 14:31:08 : INFO] - safe_mode: 0 
+[2022-07-29 14:31:08 : INFO] - max_execution_time: 300 
+[2022-07-29 14:31:08 : INFO] - memory_limit: 256M (used: 15.1M | 2M) 
+[2022-07-29 14:31:08 : INFO] - multisite: N 
+[2022-07-29 14:31:08 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-07-29 14:31:08 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-08-17 11:29:42 : INFO] - Re_Smush_It_Task with attachment ID : 904, autocreated on : August 17, 2022 11:29:42 
+[2022-08-17 11:31:44 : INFO] - Re_Smush_It_Task with attachment ID : 906, autocreated on : August 17, 2022 11:31:44 
+[2022-08-17 11:34:28 : INFO] - Re_Smush_It_Task with attachment ID : 907, autocreated on : August 17, 2022 11:34:28 
+[2022-08-17 11:39:40 : INFO] - 
+ 
+[2022-08-17 11:39:40 : INFO] - Header for logs at time:  Wed, 17 Aug 2022 11:39:40 +0000 on https://jk2333.com 
+[2022-08-17 11:39:40 : INFO] - WP: 6.0.1 
+[2022-08-17 11:39:40 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-08-17 11:39:40 : INFO] - MySQL: 8.0.24 
+[2022-08-17 11:39:40 : INFO] - WPLANG: zh_CN 
+[2022-08-17 11:39:40 : INFO] - Server: nginx/1.20.1 
+[2022-08-17 11:39:40 : INFO] - Outbound connections: N 
+[2022-08-17 11:39:40 : INFO] - safe_mode: 0 
+[2022-08-17 11:39:40 : INFO] - max_execution_time: 300 
+[2022-08-17 11:39:40 : INFO] - memory_limit: 256M (used: 15M | 2M) 
+[2022-08-17 11:39:40 : INFO] - multisite: N 
+[2022-08-17 11:39:40 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-08-17 11:39:40 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2022-08-17 11:39:40 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-08-17 11:39:40 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-08-17 11:39:40 : INFO] - Processing task with ID : 42, and type 'smush' 
+[2022-08-17 11:39:40 : INFO] - Task with ID 42 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-08-17 11:39:40 : INFO] - Processing task with ID : 43, and type 'smush' 
+[2022-08-17 11:39:40 : INFO] - Task with ID 43 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-08-17 11:39:40 : INFO] - Processing task with ID : 44, and type 'smush' 
+[2022-08-17 11:39:40 : INFO] - Re_Smush_It_Task with attachment ID : 907, autocreated on : August 17, 2022 11:34:28 
+[2022-08-17 11:39:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-17 11:39:40 : INFO] - 75 
+[2022-08-17 11:39:42 : INFO] - Backing up the original image - 2022/08/未标题-2-恢复的-updraft-pre-smush-original.jpg 
+[2022-08-17 11:39:42 : INFO] - Re_Smush_It_Task with attachment ID : 907, autocreated on : August 17, 2022 11:34:28 
+[2022-08-17 11:39:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-17 11:39:42 : INFO] - 75 
+[2022-08-17 11:39:42 : INFO] - Re_Smush_It_Task with attachment ID : 907, autocreated on : August 17, 2022 11:34:28 
+[2022-08-17 11:39:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-17 11:39:42 : INFO] - 75 
+[2022-08-17 11:39:44 : INFO] - Re_Smush_It_Task with attachment ID : 907, autocreated on : August 17, 2022 11:34:28 
+[2022-08-17 11:39:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-17 11:39:44 : INFO] - 75 
+[2022-08-17 11:39:44 : INFO] - Re_Smush_It_Task with attachment ID : 907, autocreated on : August 17, 2022 11:34:28 
+[2022-08-17 11:39:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-17 11:39:44 : INFO] - 75 
+[2022-08-17 11:39:45 : INFO] - Task with ID 44 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2022-08-17 11:39:45 : INFO] - Re_Smush_It_Task with attachment ID : 907, autocreated on : August 17, 2022 11:34:28 
+[2022-08-17 11:39:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-17 11:39:45 : INFO] - 75 
+[2022-08-17 11:39:46 : INFO] - Re_Smush_It_Task with attachment ID : 907, autocreated on : August 17, 2022 11:34:28 
+[2022-08-17 11:39:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-08-17 11:39:46 : INFO] - 75 
+[2022-08-17 11:39:48 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/08/未标题-2-恢复的.jpg. 
+[2022-08-17 11:39:48 : INFO] - Completed processing task with ID : 44, and type 'smush' 
+[2022-08-17 11:39:48 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-08-17 11:39:48 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2022-08-17 11:39:48 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-08-17 11:39:48 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2022-08-17 11:51:21 : INFO] - 
+ 
+[2022-08-17 11:51:21 : INFO] - Header for logs at time:  Wed, 17 Aug 2022 11:51:21 +0000 on https://jk2333.com 
+[2022-08-17 11:51:21 : INFO] - WP: 6.0.1 
+[2022-08-17 11:51:21 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-08-17 11:51:21 : INFO] - MySQL: 8.0.24 
+[2022-08-17 11:51:21 : INFO] - WPLANG: zh_CN 
+[2022-08-17 11:51:21 : INFO] - Server: nginx/1.20.1 
+[2022-08-17 11:51:21 : INFO] - Outbound connections: N 
+[2022-08-17 11:51:21 : INFO] - safe_mode: 0 
+[2022-08-17 11:51:21 : INFO] - max_execution_time: 300 
+[2022-08-17 11:51:21 : INFO] - memory_limit: 256M (used: 15.3M | 2M) 
+[2022-08-17 11:51:21 : INFO] - multisite: N 
+[2022-08-17 11:51:21 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-08-17 11:51:21 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-08-18 08:24:02 : INFO] - Re_Smush_It_Task with attachment ID : 917, autocreated on : August 18, 2022 08:24:02 
+[2022-08-18 08:29:02 : INFO] - 
+ 
+[2022-08-18 08:29:02 : INFO] - Header for logs at time:  Thu, 18 Aug 2022 08:29:02 +0000 on https://jk2333.com 
+[2022-08-18 08:29:02 : INFO] - WP: 6.0.1 
+[2022-08-18 08:29:02 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-08-18 08:29:02 : INFO] - MySQL: 8.0.24 
+[2022-08-18 08:29:02 : INFO] - WPLANG: zh_CN 
+[2022-08-18 08:29:02 : INFO] - Server: nginx/1.20.1 
+[2022-08-18 08:29:02 : INFO] - Outbound connections: N 
+[2022-08-18 08:29:02 : INFO] - safe_mode: 0 
+[2022-08-18 08:29:02 : INFO] - max_execution_time: 300 
+[2022-08-18 08:29:02 : INFO] - memory_limit: 256M (used: 15.1M | 2M) 
+[2022-08-18 08:29:02 : INFO] - multisite: N 
+[2022-08-18 08:29:02 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-08-18 08:29:02 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-08-18 08:29:02 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-08-18 08:29:02 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-08-18 08:29:02 : INFO] - Processing task with ID : 45, and type 'smush' 
+[2022-08-18 08:29:02 : INFO] - Task with ID 45 and type (smush) failed with error code invalid_file_type - /www/wwwroot/jk2333.com/wp-content/uploads/2022/08/微软语音助手范例.wav - cannot be optimized, it has an invalid file type 
+[2022-08-18 08:29:02 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-08-18 08:29:02 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-08-18 08:29:02 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-08-18 08:29:02 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-08-18 08:40:21 : INFO] - 
+ 
+[2022-08-18 08:40:21 : INFO] - Header for logs at time:  Thu, 18 Aug 2022 08:40:21 +0000 on https://jk2333.com 
+[2022-08-18 08:40:21 : INFO] - WP: 6.0.1 
+[2022-08-18 08:40:21 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-08-18 08:40:21 : INFO] - MySQL: 8.0.24 
+[2022-08-18 08:40:21 : INFO] - WPLANG: zh_CN 
+[2022-08-18 08:40:21 : INFO] - Server: nginx/1.20.1 
+[2022-08-18 08:40:21 : INFO] - Outbound connections: N 
+[2022-08-18 08:40:21 : INFO] - safe_mode: 0 
+[2022-08-18 08:40:21 : INFO] - max_execution_time: 300 
+[2022-08-18 08:40:21 : INFO] - memory_limit: 256M (used: 15.1M | 2M) 
+[2022-08-18 08:40:21 : INFO] - multisite: N 
+[2022-08-18 08:40:21 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-08-18 08:40:21 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-08-18 08:49:38 : INFO] - Re_Smush_It_Task with attachment ID : 921, autocreated on : August 18, 2022 08:49:38 
+[2022-09-22 14:02:44 : INFO] - Re_Smush_It_Task with attachment ID : 935, autocreated on : September 22, 2022 02:02:44 
+[2022-09-22 14:07:48 : INFO] - 
+ 
+[2022-09-22 14:07:48 : INFO] - Header for logs at time:  Thu, 22 Sep 2022 14:07:48 +0000 on https://jk2333.com 
+[2022-09-22 14:07:48 : INFO] - WP: 6.0.2 
+[2022-09-22 14:07:48 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-09-22 14:07:48 : INFO] - MySQL: 8.0.24 
+[2022-09-22 14:07:48 : INFO] - WPLANG: zh_CN 
+[2022-09-22 14:07:48 : INFO] - Server: nginx/1.20.1 
+[2022-09-22 14:07:48 : INFO] - Outbound connections: N 
+[2022-09-22 14:07:48 : INFO] - safe_mode: 0 
+[2022-09-22 14:07:48 : INFO] - max_execution_time: 300 
+[2022-09-22 14:07:48 : INFO] - memory_limit: 256M (used: 15.2M | 2M) 
+[2022-09-22 14:07:48 : INFO] - multisite: N 
+[2022-09-22 14:07:48 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-09-22 14:07:48 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2022-09-22 14:07:48 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-09-22 14:07:48 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-09-22 14:07:48 : INFO] - Processing task with ID : 46, and type 'smush' 
+[2022-09-22 14:07:48 : INFO] - Re_Smush_It_Task with attachment ID : 921, autocreated on : August 18, 2022 08:49:38 
+[2022-09-22 14:07:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-22 14:07:48 : INFO] - 75 
+[2022-09-22 14:07:50 : INFO] - Backing up the original image - 2022/08/jonathan-velasquez-c1ZN57GfDB0-unsplash-scaled-updraft-pre-smush-original.jpg 
+[2022-09-22 14:07:50 : INFO] - Re_Smush_It_Task with attachment ID : 921, autocreated on : August 18, 2022 08:49:38 
+[2022-09-22 14:07:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-22 14:07:50 : INFO] - 75 
+[2022-09-22 14:07:51 : INFO] - Re_Smush_It_Task with attachment ID : 921, autocreated on : August 18, 2022 08:49:38 
+[2022-09-22 14:07:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-22 14:07:51 : INFO] - 75 
+[2022-09-22 14:07:52 : INFO] - Re_Smush_It_Task with attachment ID : 921, autocreated on : August 18, 2022 08:49:38 
+[2022-09-22 14:07:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-22 14:07:52 : INFO] - 75 
+[2022-09-22 14:07:53 : INFO] - Re_Smush_It_Task with attachment ID : 921, autocreated on : August 18, 2022 08:49:38 
+[2022-09-22 14:07:53 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-22 14:07:53 : INFO] - 75 
+[2022-09-22 14:07:53 : INFO] - Task with ID 46 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2022-09-22 14:07:53 : INFO] - Re_Smush_It_Task with attachment ID : 921, autocreated on : August 18, 2022 08:49:38 
+[2022-09-22 14:07:53 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-22 14:07:53 : INFO] - 75 
+[2022-09-22 14:07:55 : INFO] - Re_Smush_It_Task with attachment ID : 921, autocreated on : August 18, 2022 08:49:38 
+[2022-09-22 14:07:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-22 14:07:55 : INFO] - 75 
+[2022-09-22 14:07:56 : INFO] - Re_Smush_It_Task with attachment ID : 921, autocreated on : August 18, 2022 08:49:38 
+[2022-09-22 14:07:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-22 14:07:56 : INFO] - 75 
+[2022-09-22 14:07:57 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/08/jonathan-velasquez-c1ZN57GfDB0-unsplash-scaled.jpg. 
+[2022-09-22 14:07:57 : INFO] - Completed processing task with ID : 46, and type 'smush' 
+[2022-09-22 14:07:57 : INFO] - Processing task with ID : 47, and type 'smush' 
+[2022-09-22 14:07:58 : INFO] - Re_Smush_It_Task with attachment ID : 935, autocreated on : September 22, 2022 02:02:44 
+[2022-09-22 14:07:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-22 14:07:58 : INFO] - 75 
+[2022-09-22 14:08:02 : INFO] - Backing up the original image - 2022/09/Snipaste_2022-09-06_00-04-32-updraft-pre-smush-original.png 
+[2022-09-22 14:08:02 : INFO] - Re_Smush_It_Task with attachment ID : 935, autocreated on : September 22, 2022 02:02:44 
+[2022-09-22 14:08:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-22 14:08:02 : INFO] - 75 
+[2022-09-22 14:08:03 : INFO] - Re_Smush_It_Task with attachment ID : 935, autocreated on : September 22, 2022 02:02:44 
+[2022-09-22 14:08:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-22 14:08:03 : INFO] - 75 
+[2022-09-22 14:08:06 : INFO] - Re_Smush_It_Task with attachment ID : 935, autocreated on : September 22, 2022 02:02:44 
+[2022-09-22 14:08:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-22 14:08:06 : INFO] - 75 
+[2022-09-22 14:08:07 : INFO] - Re_Smush_It_Task with attachment ID : 935, autocreated on : September 22, 2022 02:02:44 
+[2022-09-22 14:08:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-22 14:08:07 : INFO] - 75 
+[2022-09-22 14:08:09 : INFO] - Re_Smush_It_Task with attachment ID : 935, autocreated on : September 22, 2022 02:02:44 
+[2022-09-22 14:08:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-22 14:08:09 : INFO] - 75 
+[2022-09-22 14:08:13 : INFO] - Re_Smush_It_Task with attachment ID : 935, autocreated on : September 22, 2022 02:02:44 
+[2022-09-22 14:08:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-22 14:08:13 : INFO] - 75 
+[2022-09-22 14:08:15 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/09/Snipaste_2022-09-06_00-04-32.png. 
+[2022-09-22 14:08:15 : INFO] - Completed processing task with ID : 47, and type 'smush' 
+[2022-09-22 14:08:15 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-09-22 14:08:15 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2022-09-22 14:08:15 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-09-22 14:08:15 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2022-09-22 14:17:50 : INFO] - 
+ 
+[2022-09-22 14:17:50 : INFO] - Header for logs at time:  Thu, 22 Sep 2022 14:17:50 +0000 on https://jk2333.com 
+[2022-09-22 14:17:50 : INFO] - WP: 6.0.2 
+[2022-09-22 14:17:50 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-09-22 14:17:50 : INFO] - MySQL: 8.0.24 
+[2022-09-22 14:17:50 : INFO] - WPLANG: zh_CN 
+[2022-09-22 14:17:50 : INFO] - Server: nginx/1.20.1 
+[2022-09-22 14:17:50 : INFO] - Outbound connections: N 
+[2022-09-22 14:17:50 : INFO] - safe_mode: 0 
+[2022-09-22 14:17:50 : INFO] - max_execution_time: 300 
+[2022-09-22 14:17:50 : INFO] - memory_limit: 256M (used: 15.3M | 4M) 
+[2022-09-22 14:17:50 : INFO] - multisite: N 
+[2022-09-22 14:17:50 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-09-22 14:17:50 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-10-02 08:33:39 : INFO] - Re_Smush_It_Task with attachment ID : 943, autocreated on : October 02, 2022 08:33:39 
+[2022-10-02 08:39:42 : INFO] - 
+ 
+[2022-10-02 08:39:42 : INFO] - Header for logs at time:  Sun, 02 Oct 2022 08:39:42 +0000 on https://jk2333.com 
+[2022-10-02 08:39:42 : INFO] - WP: 6.0.2 
+[2022-10-02 08:39:42 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-02 08:39:42 : INFO] - MySQL: 8.0.24 
+[2022-10-02 08:39:42 : INFO] - WPLANG: zh_CN 
+[2022-10-02 08:39:42 : INFO] - Server: nginx/1.20.1 
+[2022-10-02 08:39:42 : INFO] - Outbound connections: N 
+[2022-10-02 08:39:42 : INFO] - safe_mode: 0 
+[2022-10-02 08:39:42 : INFO] - max_execution_time: 300 
+[2022-10-02 08:39:42 : INFO] - memory_limit: 256M (used: 15.2M | 2M) 
+[2022-10-02 08:39:42 : INFO] - multisite: N 
+[2022-10-02 08:39:42 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-02 08:39:42 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-02 08:39:42 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-10-02 08:39:42 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-10-02 08:39:42 : INFO] - Processing task with ID : 48, and type 'smush' 
+[2022-10-02 08:39:42 : INFO] - Re_Smush_It_Task with attachment ID : 943, autocreated on : October 02, 2022 08:33:39 
+[2022-10-02 08:39:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-02 08:39:42 : INFO] - 75 
+[2022-10-02 08:39:45 : INFO] - Backing up the original image - 2022/10/Slide-16_9-3-updraft-pre-smush-original.png 
+[2022-10-02 08:39:45 : INFO] - Re_Smush_It_Task with attachment ID : 943, autocreated on : October 02, 2022 08:33:39 
+[2022-10-02 08:39:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-02 08:39:45 : INFO] - 75 
+[2022-10-02 08:39:47 : INFO] - Re_Smush_It_Task with attachment ID : 943, autocreated on : October 02, 2022 08:33:39 
+[2022-10-02 08:39:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-02 08:39:47 : INFO] - 75 
+[2022-10-02 08:39:50 : INFO] - Re_Smush_It_Task with attachment ID : 943, autocreated on : October 02, 2022 08:33:39 
+[2022-10-02 08:39:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-02 08:39:50 : INFO] - 75 
+[2022-10-02 08:39:51 : INFO] - Re_Smush_It_Task with attachment ID : 943, autocreated on : October 02, 2022 08:33:39 
+[2022-10-02 08:39:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-02 08:39:51 : INFO] - 75 
+[2022-10-02 08:39:54 : INFO] - Re_Smush_It_Task with attachment ID : 943, autocreated on : October 02, 2022 08:33:39 
+[2022-10-02 08:39:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-02 08:39:54 : INFO] - 75 
+[2022-10-02 08:39:58 : INFO] - Re_Smush_It_Task with attachment ID : 943, autocreated on : October 02, 2022 08:33:39 
+[2022-10-02 08:39:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-02 08:39:58 : INFO] - 75 
+[2022-10-02 08:40:01 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/Slide-16_9-3.png. 
+[2022-10-02 08:40:01 : INFO] - Completed processing task with ID : 48, and type 'smush' 
+[2022-10-02 08:40:01 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-10-02 08:40:01 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-02 08:40:01 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-10-02 08:40:01 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-02 08:41:15 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : October 02, 2022 08:41:15 
+[2022-10-02 08:49:47 : INFO] - 
+ 
+[2022-10-02 08:49:47 : INFO] - Header for logs at time:  Sun, 02 Oct 2022 08:49:47 +0000 on https://jk2333.com 
+[2022-10-02 08:49:47 : INFO] - WP: 6.0.2 
+[2022-10-02 08:49:47 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-02 08:49:47 : INFO] - MySQL: 8.0.24 
+[2022-10-02 08:49:47 : INFO] - WPLANG: zh_CN 
+[2022-10-02 08:49:47 : INFO] - Server: nginx/1.20.1 
+[2022-10-02 08:49:47 : INFO] - Outbound connections: N 
+[2022-10-02 08:49:47 : INFO] - safe_mode: 0 
+[2022-10-02 08:49:47 : INFO] - max_execution_time: 300 
+[2022-10-02 08:49:47 : INFO] - memory_limit: 256M (used: 15.1M | 2M) 
+[2022-10-02 08:49:47 : INFO] - multisite: N 
+[2022-10-02 08:49:47 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-02 08:49:47 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-02 08:49:47 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-10-02 08:49:47 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-10-02 08:49:47 : INFO] - Processing task with ID : 49, and type 'smush' 
+[2022-10-02 08:49:47 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : October 02, 2022 08:41:15 
+[2022-10-02 08:49:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-02 08:49:47 : INFO] - 75 
+[2022-10-02 08:49:50 : INFO] - Backing up the original image - 2022/10/Group-3-updraft-pre-smush-original.png 
+[2022-10-02 08:49:50 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : October 02, 2022 08:41:15 
+[2022-10-02 08:49:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-02 08:49:50 : INFO] - 75 
+[2022-10-02 08:49:52 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : October 02, 2022 08:41:15 
+[2022-10-02 08:49:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-02 08:49:52 : INFO] - 75 
+[2022-10-02 08:49:54 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : October 02, 2022 08:41:15 
+[2022-10-02 08:49:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-02 08:49:54 : INFO] - 75 
+[2022-10-02 08:49:55 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : October 02, 2022 08:41:15 
+[2022-10-02 08:49:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-02 08:49:55 : INFO] - 75 
+[2022-10-02 08:49:57 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : October 02, 2022 08:41:15 
+[2022-10-02 08:49:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-02 08:49:57 : INFO] - 75 
+[2022-10-02 08:50:00 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : October 02, 2022 08:41:15 
+[2022-10-02 08:50:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-02 08:50:00 : INFO] - 75 
+[2022-10-02 08:50:03 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/Group-3.png. 
+[2022-10-02 08:50:03 : INFO] - Completed processing task with ID : 49, and type 'smush' 
+[2022-10-02 08:50:03 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-10-02 08:50:03 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-02 08:50:03 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-10-02 08:50:03 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-02 09:05:58 : INFO] - 
+ 
+[2022-10-02 09:05:58 : INFO] - Header for logs at time:  Sun, 02 Oct 2022 09:05:58 +0000 on https://jk2333.com 
+[2022-10-02 09:05:58 : INFO] - WP: 6.0.2 
+[2022-10-02 09:05:58 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-02 09:05:58 : INFO] - MySQL: 8.0.24 
+[2022-10-02 09:05:58 : INFO] - WPLANG: zh_CN 
+[2022-10-02 09:05:58 : INFO] - Server: nginx/1.20.1 
+[2022-10-02 09:05:58 : INFO] - Outbound connections: N 
+[2022-10-02 09:05:58 : INFO] - safe_mode: 0 
+[2022-10-02 09:05:58 : INFO] - max_execution_time: 300 
+[2022-10-02 09:05:58 : INFO] - memory_limit: 256M (used: 15.2M | 2M) 
+[2022-10-02 09:05:58 : INFO] - multisite: N 
+[2022-10-02 09:05:58 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-02 09:05:58 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-10-03 15:46:14 : INFO] - Re_Smush_It_Task with attachment ID : 954, autocreated on : October 03, 2022 03:46:14 
+[2022-10-03 15:51:28 : INFO] - 
+ 
+[2022-10-03 15:51:28 : INFO] - Header for logs at time:  Mon, 03 Oct 2022 15:51:28 +0000 on https://jk2333.com 
+[2022-10-03 15:51:28 : INFO] - WP: 6.0.2 
+[2022-10-03 15:51:28 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-03 15:51:28 : INFO] - MySQL: 8.0.24 
+[2022-10-03 15:51:28 : INFO] - WPLANG: zh_CN 
+[2022-10-03 15:51:28 : INFO] - Server: nginx/1.20.1 
+[2022-10-03 15:51:28 : INFO] - Outbound connections: N 
+[2022-10-03 15:51:28 : INFO] - safe_mode: 0 
+[2022-10-03 15:51:28 : INFO] - max_execution_time: 300 
+[2022-10-03 15:51:28 : INFO] - memory_limit: 256M (used: 15.2M | 2M) 
+[2022-10-03 15:51:28 : INFO] - multisite: N 
+[2022-10-03 15:51:28 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-03 15:51:28 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-03 15:51:28 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-10-03 15:51:28 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-10-03 15:51:28 : INFO] - Processing task with ID : 50, and type 'smush' 
+[2022-10-03 15:51:28 : INFO] - Re_Smush_It_Task with attachment ID : 954, autocreated on : October 03, 2022 03:46:14 
+[2022-10-03 15:51:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-03 15:51:28 : INFO] - 75 
+[2022-10-03 15:51:32 : INFO] - Backing up the original image - 2022/10/Snipaste_2022-10-03_23-32-35-updraft-pre-smush-original.png 
+[2022-10-03 15:51:32 : INFO] - Re_Smush_It_Task with attachment ID : 954, autocreated on : October 03, 2022 03:46:14 
+[2022-10-03 15:51:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-03 15:51:32 : INFO] - 75 
+[2022-10-03 15:51:33 : INFO] - Re_Smush_It_Task with attachment ID : 954, autocreated on : October 03, 2022 03:46:14 
+[2022-10-03 15:51:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-03 15:51:33 : INFO] - 75 
+[2022-10-03 15:51:35 : INFO] - Re_Smush_It_Task with attachment ID : 954, autocreated on : October 03, 2022 03:46:14 
+[2022-10-03 15:51:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-03 15:51:35 : INFO] - 75 
+[2022-10-03 15:51:36 : INFO] - Re_Smush_It_Task with attachment ID : 954, autocreated on : October 03, 2022 03:46:14 
+[2022-10-03 15:51:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-03 15:51:36 : INFO] - 75 
+[2022-10-03 15:51:38 : INFO] - Re_Smush_It_Task with attachment ID : 954, autocreated on : October 03, 2022 03:46:14 
+[2022-10-03 15:51:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-03 15:51:38 : INFO] - 75 
+[2022-10-03 15:51:41 : INFO] - Re_Smush_It_Task with attachment ID : 954, autocreated on : October 03, 2022 03:46:14 
+[2022-10-03 15:51:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-03 15:51:41 : INFO] - 75 
+[2022-10-03 15:51:44 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/Snipaste_2022-10-03_23-32-35.png. 
+[2022-10-03 15:51:44 : INFO] - Completed processing task with ID : 50, and type 'smush' 
+[2022-10-03 15:51:44 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-10-03 15:51:44 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-03 15:51:44 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-10-03 15:51:44 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-03 16:04:05 : INFO] - 
+ 
+[2022-10-03 16:04:05 : INFO] - Header for logs at time:  Mon, 03 Oct 2022 16:04:05 +0000 on https://jk2333.com 
+[2022-10-03 16:04:05 : INFO] - WP: 6.0.2 
+[2022-10-03 16:04:05 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-03 16:04:05 : INFO] - MySQL: 8.0.24 
+[2022-10-03 16:04:05 : INFO] - WPLANG: zh_CN 
+[2022-10-03 16:04:05 : INFO] - Server: nginx/1.20.1 
+[2022-10-03 16:04:05 : INFO] - Outbound connections: N 
+[2022-10-03 16:04:05 : INFO] - safe_mode: 0 
+[2022-10-03 16:04:05 : INFO] - max_execution_time: 300 
+[2022-10-03 16:04:05 : INFO] - memory_limit: 256M (used: 15.2M | 2M) 
+[2022-10-03 16:04:05 : INFO] - multisite: N 
+[2022-10-03 16:04:05 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-03 16:04:05 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-10-04 14:44:38 : INFO] - Re_Smush_It_Task with attachment ID : 990, autocreated on : October 04, 2022 02:44:37 
+[2022-10-04 14:45:58 : INFO] - Re_Smush_It_Task with attachment ID : 993, autocreated on : October 04, 2022 02:45:58 
+[2022-10-04 15:40:09 : INFO] - Re_Smush_It_Task with attachment ID : 996, autocreated on : October 04, 2022 03:40:09 
+[2022-10-04 15:40:54 : INFO] - Re_Smush_It_Task with attachment ID : 997, autocreated on : October 04, 2022 03:40:54 
+[2022-10-04 15:52:34 : INFO] - 
+ 
+[2022-10-04 15:52:34 : INFO] - Header for logs at time:  Tue, 04 Oct 2022 15:52:34 +0000 on https://jk2333.com 
+[2022-10-04 15:52:34 : INFO] - WP: 6.0.2 
+[2022-10-04 15:52:34 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-04 15:52:34 : INFO] - MySQL: 8.0.24 
+[2022-10-04 15:52:34 : INFO] - WPLANG: zh_CN 
+[2022-10-04 15:52:34 : INFO] - Server: nginx/1.20.1 
+[2022-10-04 15:52:34 : INFO] - Outbound connections: N 
+[2022-10-04 15:52:34 : INFO] - safe_mode: 0 
+[2022-10-04 15:52:34 : INFO] - max_execution_time: 300 
+[2022-10-04 15:52:34 : INFO] - memory_limit: 256M (used: 15.1M | 4M) 
+[2022-10-04 15:52:34 : INFO] - multisite: N 
+[2022-10-04 15:52:34 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-04 15:52:34 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2022-10-04 15:52:34 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-10-04 15:52:34 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-10-04 15:52:34 : INFO] - Processing task with ID : 51, and type 'smush' 
+[2022-10-04 15:52:34 : INFO] - Re_Smush_It_Task with attachment ID : 990, autocreated on : October 04, 2022 02:44:37 
+[2022-10-04 15:52:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:34 : INFO] - 75 
+[2022-10-04 15:52:35 : INFO] - Backing up the original image - 2022/10/IMG_8447-updraft-pre-smush-original.jpeg 
+[2022-10-04 15:52:35 : INFO] - Re_Smush_It_Task with attachment ID : 990, autocreated on : October 04, 2022 02:44:37 
+[2022-10-04 15:52:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:35 : INFO] - 75 
+[2022-10-04 15:52:35 : INFO] - Re_Smush_It_Task with attachment ID : 990, autocreated on : October 04, 2022 02:44:37 
+[2022-10-04 15:52:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:35 : INFO] - 75 
+[2022-10-04 15:52:36 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/IMG_8447.jpeg. 
+[2022-10-04 15:52:36 : INFO] - Completed processing task with ID : 51, and type 'smush' 
+[2022-10-04 15:52:36 : INFO] - Processing task with ID : 52, and type 'smush' 
+[2022-10-04 15:52:36 : INFO] - Re_Smush_It_Task with attachment ID : 993, autocreated on : October 04, 2022 02:45:58 
+[2022-10-04 15:52:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:36 : INFO] - 75 
+[2022-10-04 15:52:39 : INFO] - Backing up the original image - 2022/10/IMG_8446-updraft-pre-smush-original.jpeg 
+[2022-10-04 15:52:39 : INFO] - Re_Smush_It_Task with attachment ID : 993, autocreated on : October 04, 2022 02:45:58 
+[2022-10-04 15:52:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:39 : INFO] - 75 
+[2022-10-04 15:52:40 : INFO] - Re_Smush_It_Task with attachment ID : 993, autocreated on : October 04, 2022 02:45:58 
+[2022-10-04 15:52:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:40 : INFO] - 75 
+[2022-10-04 15:52:41 : INFO] - Re_Smush_It_Task with attachment ID : 993, autocreated on : October 04, 2022 02:45:58 
+[2022-10-04 15:52:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:41 : INFO] - 75 
+[2022-10-04 15:52:42 : INFO] - Re_Smush_It_Task with attachment ID : 993, autocreated on : October 04, 2022 02:45:58 
+[2022-10-04 15:52:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:42 : INFO] - 75 
+[2022-10-04 15:52:44 : INFO] - Re_Smush_It_Task with attachment ID : 993, autocreated on : October 04, 2022 02:45:58 
+[2022-10-04 15:52:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:44 : INFO] - 75 
+[2022-10-04 15:52:46 : INFO] - Re_Smush_It_Task with attachment ID : 993, autocreated on : October 04, 2022 02:45:58 
+[2022-10-04 15:52:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:46 : INFO] - 75 
+[2022-10-04 15:52:47 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/IMG_8446.jpeg. 
+[2022-10-04 15:52:47 : INFO] - Completed processing task with ID : 52, and type 'smush' 
+[2022-10-04 15:52:47 : INFO] - Processing task with ID : 53, and type 'smush' 
+[2022-10-04 15:52:47 : INFO] - Re_Smush_It_Task with attachment ID : 996, autocreated on : October 04, 2022 03:40:09 
+[2022-10-04 15:52:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:47 : INFO] - 75 
+[2022-10-04 15:52:49 : INFO] - Backing up the original image - 2022/10/PDF-updraft-pre-smush-original.png 
+[2022-10-04 15:52:49 : INFO] - Re_Smush_It_Task with attachment ID : 996, autocreated on : October 04, 2022 03:40:09 
+[2022-10-04 15:52:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:49 : INFO] - 75 
+[2022-10-04 15:52:50 : INFO] - Re_Smush_It_Task with attachment ID : 996, autocreated on : October 04, 2022 03:40:09 
+[2022-10-04 15:52:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:50 : INFO] - 75 
+[2022-10-04 15:52:51 : INFO] - Re_Smush_It_Task with attachment ID : 996, autocreated on : October 04, 2022 03:40:09 
+[2022-10-04 15:52:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:51 : INFO] - 75 
+[2022-10-04 15:52:51 : INFO] - Re_Smush_It_Task with attachment ID : 996, autocreated on : October 04, 2022 03:40:09 
+[2022-10-04 15:52:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:51 : INFO] - 75 
+[2022-10-04 15:52:52 : INFO] - Re_Smush_It_Task with attachment ID : 996, autocreated on : October 04, 2022 03:40:09 
+[2022-10-04 15:52:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:52 : INFO] - 75 
+[2022-10-04 15:52:53 : INFO] - Re_Smush_It_Task with attachment ID : 996, autocreated on : October 04, 2022 03:40:09 
+[2022-10-04 15:52:53 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:53 : INFO] - 75 
+[2022-10-04 15:52:55 : INFO] - Re_Smush_It_Task with attachment ID : 996, autocreated on : October 04, 2022 03:40:09 
+[2022-10-04 15:52:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:55 : INFO] - 75 
+[2022-10-04 15:52:55 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/PDF.png. 
+[2022-10-04 15:52:55 : INFO] - Completed processing task with ID : 53, and type 'smush' 
+[2022-10-04 15:52:55 : INFO] - Processing task with ID : 54, and type 'smush' 
+[2022-10-04 15:52:55 : INFO] - Re_Smush_It_Task with attachment ID : 997, autocreated on : October 04, 2022 03:40:54 
+[2022-10-04 15:52:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:55 : INFO] - 75 
+[2022-10-04 15:52:56 : INFO] - Backing up the original image - 2022/10/Clipboard-2022年10月4日-23.40-updraft-pre-smush-original.jpeg 
+[2022-10-04 15:52:56 : INFO] - Re_Smush_It_Task with attachment ID : 997, autocreated on : October 04, 2022 03:40:54 
+[2022-10-04 15:52:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:56 : INFO] - 75 
+[2022-10-04 15:52:57 : INFO] - Re_Smush_It_Task with attachment ID : 997, autocreated on : October 04, 2022 03:40:54 
+[2022-10-04 15:52:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-04 15:52:57 : INFO] - 75 
+[2022-10-04 15:52:58 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/Clipboard-2022年10月4日-23.40.jpeg. 
+[2022-10-04 15:52:58 : INFO] - Completed processing task with ID : 54, and type 'smush' 
+[2022-10-04 15:52:58 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-10-04 15:52:58 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2022-10-04 15:52:58 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-10-04 15:52:58 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2022-10-04 16:08:52 : INFO] - 
+ 
+[2022-10-04 16:08:52 : INFO] - Header for logs at time:  Tue, 04 Oct 2022 16:08:52 +0000 on https://jk2333.com 
+[2022-10-04 16:08:52 : INFO] - WP: 6.0.2 
+[2022-10-04 16:08:52 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-04 16:08:52 : INFO] - MySQL: 8.0.24 
+[2022-10-04 16:08:52 : INFO] - WPLANG: zh_CN 
+[2022-10-04 16:08:52 : INFO] - Server: nginx/1.20.1 
+[2022-10-04 16:08:52 : INFO] - Outbound connections: N 
+[2022-10-04 16:08:52 : INFO] - safe_mode: 0 
+[2022-10-04 16:08:52 : INFO] - max_execution_time: 300 
+[2022-10-04 16:08:52 : INFO] - memory_limit: 256M (used: 15.3M | 12M) 
+[2022-10-04 16:08:52 : INFO] - multisite: N 
+[2022-10-04 16:08:52 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-04 16:08:52 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-10-05 01:07:28 : INFO] - Re_Smush_It_Task with attachment ID : 998, autocreated on : October 05, 2022 01:07:28 
+[2022-10-05 01:07:30 : INFO] - Re_Smush_It_Task with attachment ID : 999, autocreated on : October 05, 2022 01:07:30 
+[2022-10-05 01:07:32 : INFO] - Re_Smush_It_Task with attachment ID : 1000, autocreated on : October 05, 2022 01:07:32 
+[2022-10-05 01:07:34 : INFO] - Re_Smush_It_Task with attachment ID : 1001, autocreated on : October 05, 2022 01:07:34 
+[2022-10-05 01:09:08 : INFO] - Re_Smush_It_Task with attachment ID : 1004, autocreated on : October 05, 2022 01:09:08 
+[2022-10-05 01:09:10 : INFO] - Re_Smush_It_Task with attachment ID : 1005, autocreated on : October 05, 2022 01:09:10 
+[2022-10-05 01:09:12 : INFO] - Re_Smush_It_Task with attachment ID : 1006, autocreated on : October 05, 2022 01:09:12 
+[2022-10-05 01:09:14 : INFO] - Re_Smush_It_Task with attachment ID : 1007, autocreated on : October 05, 2022 01:09:14 
+[2022-10-05 01:14:03 : INFO] - 
+ 
+[2022-10-05 01:14:03 : INFO] - Header for logs at time:  Wed, 05 Oct 2022 01:14:03 +0000 on https://jk2333.com 
+[2022-10-05 01:14:03 : INFO] - WP: 6.0.2 
+[2022-10-05 01:14:03 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-05 01:14:03 : INFO] - MySQL: 8.0.24 
+[2022-10-05 01:14:03 : INFO] - WPLANG: zh_CN 
+[2022-10-05 01:14:03 : INFO] - Server: nginx/1.20.1 
+[2022-10-05 01:14:03 : INFO] - Outbound connections: N 
+[2022-10-05 01:14:03 : INFO] - safe_mode: 0 
+[2022-10-05 01:14:03 : INFO] - max_execution_time: 300 
+[2022-10-05 01:14:03 : INFO] - memory_limit: 256M (used: 15.1M | 2M) 
+[2022-10-05 01:14:03 : INFO] - multisite: N 
+[2022-10-05 01:14:03 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-05 01:14:03 : INFO] - A total of 8 tasks of type smush found and will be processed in this iteration 
+[2022-10-05 01:14:03 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-10-05 01:14:03 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-10-05 01:14:03 : INFO] - Processing task with ID : 55, and type 'smush' 
+[2022-10-05 01:14:03 : INFO] - Re_Smush_It_Task with attachment ID : 998, autocreated on : October 05, 2022 01:07:28 
+[2022-10-05 01:14:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:03 : INFO] - 75 
+[2022-10-05 01:14:04 : INFO] - Backing up the original image - 2022/10/IMG_8466-updraft-pre-smush-original.jpeg 
+[2022-10-05 01:14:04 : INFO] - Re_Smush_It_Task with attachment ID : 998, autocreated on : October 05, 2022 01:07:28 
+[2022-10-05 01:14:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:04 : INFO] - 75 
+[2022-10-05 01:14:05 : INFO] - Re_Smush_It_Task with attachment ID : 998, autocreated on : October 05, 2022 01:07:28 
+[2022-10-05 01:14:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:05 : INFO] - 75 
+[2022-10-05 01:14:05 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/IMG_8466.jpeg. 
+[2022-10-05 01:14:06 : INFO] - Completed processing task with ID : 55, and type 'smush' 
+[2022-10-05 01:14:06 : INFO] - Processing task with ID : 56, and type 'smush' 
+[2022-10-05 01:14:06 : INFO] - Re_Smush_It_Task with attachment ID : 999, autocreated on : October 05, 2022 01:07:30 
+[2022-10-05 01:14:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:06 : INFO] - 75 
+[2022-10-05 01:14:06 : INFO] - Backing up the original image - 2022/10/IMG_8464-updraft-pre-smush-original.jpeg 
+[2022-10-05 01:14:06 : INFO] - Re_Smush_It_Task with attachment ID : 999, autocreated on : October 05, 2022 01:07:30 
+[2022-10-05 01:14:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:06 : INFO] - 75 
+[2022-10-05 01:14:07 : INFO] - Re_Smush_It_Task with attachment ID : 999, autocreated on : October 05, 2022 01:07:30 
+[2022-10-05 01:14:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:07 : INFO] - 75 
+[2022-10-05 01:14:08 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/IMG_8464.jpeg. 
+[2022-10-05 01:14:08 : INFO] - Completed processing task with ID : 56, and type 'smush' 
+[2022-10-05 01:14:08 : INFO] - Processing task with ID : 57, and type 'smush' 
+[2022-10-05 01:14:08 : INFO] - Re_Smush_It_Task with attachment ID : 1000, autocreated on : October 05, 2022 01:07:32 
+[2022-10-05 01:14:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:08 : INFO] - 75 
+[2022-10-05 01:14:08 : INFO] - Backing up the original image - 2022/10/IMG_8465-updraft-pre-smush-original.jpeg 
+[2022-10-05 01:14:08 : INFO] - Re_Smush_It_Task with attachment ID : 1000, autocreated on : October 05, 2022 01:07:32 
+[2022-10-05 01:14:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:08 : INFO] - 75 
+[2022-10-05 01:14:09 : INFO] - Re_Smush_It_Task with attachment ID : 1000, autocreated on : October 05, 2022 01:07:32 
+[2022-10-05 01:14:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:09 : INFO] - 75 
+[2022-10-05 01:14:10 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/IMG_8465.jpeg. 
+[2022-10-05 01:14:10 : INFO] - Completed processing task with ID : 57, and type 'smush' 
+[2022-10-05 01:14:10 : INFO] - Processing task with ID : 58, and type 'smush' 
+[2022-10-05 01:14:10 : INFO] - Re_Smush_It_Task with attachment ID : 1001, autocreated on : October 05, 2022 01:07:34 
+[2022-10-05 01:14:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:10 : INFO] - 75 
+[2022-10-05 01:14:10 : INFO] - Backing up the original image - 2022/10/IMG_8465-1-updraft-pre-smush-original.jpeg 
+[2022-10-05 01:14:10 : INFO] - Re_Smush_It_Task with attachment ID : 1001, autocreated on : October 05, 2022 01:07:34 
+[2022-10-05 01:14:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:10 : INFO] - 75 
+[2022-10-05 01:14:11 : INFO] - Re_Smush_It_Task with attachment ID : 1001, autocreated on : October 05, 2022 01:07:34 
+[2022-10-05 01:14:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:11 : INFO] - 75 
+[2022-10-05 01:14:12 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/IMG_8465-1.jpeg. 
+[2022-10-05 01:14:12 : INFO] - Completed processing task with ID : 58, and type 'smush' 
+[2022-10-05 01:14:12 : INFO] - Processing task with ID : 59, and type 'smush' 
+[2022-10-05 01:14:12 : INFO] - Re_Smush_It_Task with attachment ID : 1004, autocreated on : October 05, 2022 01:09:08 
+[2022-10-05 01:14:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:12 : INFO] - 75 
+[2022-10-05 01:14:13 : INFO] - Backing up the original image - 2022/10/IMG_8466-1-updraft-pre-smush-original.jpeg 
+[2022-10-05 01:14:13 : INFO] - Re_Smush_It_Task with attachment ID : 1004, autocreated on : October 05, 2022 01:09:08 
+[2022-10-05 01:14:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:13 : INFO] - 75 
+[2022-10-05 01:14:13 : INFO] - Re_Smush_It_Task with attachment ID : 1004, autocreated on : October 05, 2022 01:09:08 
+[2022-10-05 01:14:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:13 : INFO] - 75 
+[2022-10-05 01:14:14 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/IMG_8466-1.jpeg. 
+[2022-10-05 01:14:14 : INFO] - Completed processing task with ID : 59, and type 'smush' 
+[2022-10-05 01:14:14 : INFO] - Processing task with ID : 60, and type 'smush' 
+[2022-10-05 01:14:14 : INFO] - Re_Smush_It_Task with attachment ID : 1005, autocreated on : October 05, 2022 01:09:10 
+[2022-10-05 01:14:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:14 : INFO] - 75 
+[2022-10-05 01:14:15 : INFO] - Backing up the original image - 2022/10/IMG_8464-1-updraft-pre-smush-original.jpeg 
+[2022-10-05 01:14:15 : INFO] - Re_Smush_It_Task with attachment ID : 1005, autocreated on : October 05, 2022 01:09:10 
+[2022-10-05 01:14:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:15 : INFO] - 75 
+[2022-10-05 01:14:15 : INFO] - Re_Smush_It_Task with attachment ID : 1005, autocreated on : October 05, 2022 01:09:10 
+[2022-10-05 01:14:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:15 : INFO] - 75 
+[2022-10-05 01:14:16 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/IMG_8464-1.jpeg. 
+[2022-10-05 01:14:16 : INFO] - Completed processing task with ID : 60, and type 'smush' 
+[2022-10-05 01:14:16 : INFO] - Processing task with ID : 61, and type 'smush' 
+[2022-10-05 01:14:16 : INFO] - Re_Smush_It_Task with attachment ID : 1006, autocreated on : October 05, 2022 01:09:12 
+[2022-10-05 01:14:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:16 : INFO] - 75 
+[2022-10-05 01:14:17 : INFO] - Backing up the original image - 2022/10/IMG_8465-2-updraft-pre-smush-original.jpeg 
+[2022-10-05 01:14:17 : INFO] - Re_Smush_It_Task with attachment ID : 1006, autocreated on : October 05, 2022 01:09:12 
+[2022-10-05 01:14:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:17 : INFO] - 75 
+[2022-10-05 01:14:17 : INFO] - Re_Smush_It_Task with attachment ID : 1006, autocreated on : October 05, 2022 01:09:12 
+[2022-10-05 01:14:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:17 : INFO] - 75 
+[2022-10-05 01:14:18 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/IMG_8465-2.jpeg. 
+[2022-10-05 01:14:18 : INFO] - Completed processing task with ID : 61, and type 'smush' 
+[2022-10-05 01:14:18 : INFO] - Processing task with ID : 62, and type 'smush' 
+[2022-10-05 01:14:18 : INFO] - Re_Smush_It_Task with attachment ID : 1007, autocreated on : October 05, 2022 01:09:14 
+[2022-10-05 01:14:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:18 : INFO] - 75 
+[2022-10-05 01:14:19 : INFO] - Backing up the original image - 2022/10/IMG_8465-3-updraft-pre-smush-original.jpeg 
+[2022-10-05 01:14:19 : INFO] - Re_Smush_It_Task with attachment ID : 1007, autocreated on : October 05, 2022 01:09:14 
+[2022-10-05 01:14:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:19 : INFO] - 75 
+[2022-10-05 01:14:19 : INFO] - Re_Smush_It_Task with attachment ID : 1007, autocreated on : October 05, 2022 01:09:14 
+[2022-10-05 01:14:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:14:19 : INFO] - 75 
+[2022-10-05 01:14:20 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/IMG_8465-3.jpeg. 
+[2022-10-05 01:14:20 : INFO] - Completed processing task with ID : 62, and type 'smush' 
+[2022-10-05 01:14:20 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-10-05 01:14:20 : INFO] - Successfully processed the queue (smush). 8 tasks were processed out of 8. 
+[2022-10-05 01:14:20 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-10-05 01:14:20 : INFO] - Cleaning up tasks of type (smush). A total of 8 tasks will be deleted. 
+[2022-10-05 01:24:58 : INFO] - 
+ 
+[2022-10-05 01:24:58 : INFO] - Header for logs at time:  Wed, 05 Oct 2022 01:24:58 +0000 on https://jk2333.com 
+[2022-10-05 01:24:58 : INFO] - WP: 6.0.2 
+[2022-10-05 01:24:58 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-05 01:24:58 : INFO] - MySQL: 8.0.24 
+[2022-10-05 01:24:58 : INFO] - WPLANG: zh_CN 
+[2022-10-05 01:24:58 : INFO] - Server: nginx/1.20.1 
+[2022-10-05 01:24:58 : INFO] - Outbound connections: N 
+[2022-10-05 01:24:58 : INFO] - safe_mode: 0 
+[2022-10-05 01:24:58 : INFO] - max_execution_time: 300 
+[2022-10-05 01:24:58 : INFO] - memory_limit: 256M (used: 15.2M | 2M) 
+[2022-10-05 01:24:58 : INFO] - multisite: N 
+[2022-10-05 01:24:58 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-05 01:24:58 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-10-05 01:52:09 : INFO] - Re_Smush_It_Task with attachment ID : 1010, autocreated on : October 05, 2022 01:52:09 
+[2022-10-05 01:55:05 : INFO] - Re_Smush_It_Task with attachment ID : 1013, autocreated on : October 05, 2022 01:55:05 
+[2022-10-05 01:58:09 : INFO] - 
+ 
+[2022-10-05 01:58:09 : INFO] - Header for logs at time:  Wed, 05 Oct 2022 01:58:09 +0000 on https://jk2333.com 
+[2022-10-05 01:58:09 : INFO] - WP: 6.0.2 
+[2022-10-05 01:58:09 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-05 01:58:09 : INFO] - MySQL: 8.0.24 
+[2022-10-05 01:58:09 : INFO] - WPLANG: zh_CN 
+[2022-10-05 01:58:09 : INFO] - Server: nginx/1.20.1 
+[2022-10-05 01:58:09 : INFO] - Outbound connections: N 
+[2022-10-05 01:58:09 : INFO] - safe_mode: 0 
+[2022-10-05 01:58:09 : INFO] - max_execution_time: 300 
+[2022-10-05 01:58:09 : INFO] - memory_limit: 256M (used: 15.1M | 2M) 
+[2022-10-05 01:58:09 : INFO] - multisite: N 
+[2022-10-05 01:58:09 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-05 01:58:09 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2022-10-05 01:58:09 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-10-05 01:58:09 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-10-05 01:58:09 : INFO] - Processing task with ID : 63, and type 'smush' 
+[2022-10-05 01:58:10 : INFO] - Re_Smush_It_Task with attachment ID : 1010, autocreated on : October 05, 2022 01:52:09 
+[2022-10-05 01:58:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:58:10 : INFO] - 75 
+[2022-10-05 01:58:11 : INFO] - Backing up the original image - 2022/10/IMG_8496-updraft-pre-smush-original.jpeg 
+[2022-10-05 01:58:11 : INFO] - Re_Smush_It_Task with attachment ID : 1010, autocreated on : October 05, 2022 01:52:09 
+[2022-10-05 01:58:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:58:11 : INFO] - 75 
+[2022-10-05 01:58:12 : INFO] - Re_Smush_It_Task with attachment ID : 1010, autocreated on : October 05, 2022 01:52:09 
+[2022-10-05 01:58:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:58:12 : INFO] - 75 
+[2022-10-05 01:58:13 : INFO] - Re_Smush_It_Task with attachment ID : 1010, autocreated on : October 05, 2022 01:52:09 
+[2022-10-05 01:58:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:58:13 : INFO] - 75 
+[2022-10-05 01:58:14 : INFO] - Re_Smush_It_Task with attachment ID : 1010, autocreated on : October 05, 2022 01:52:09 
+[2022-10-05 01:58:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:58:14 : INFO] - 75 
+[2022-10-05 01:58:15 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/IMG_8496.jpeg. 
+[2022-10-05 01:58:15 : INFO] - Completed processing task with ID : 63, and type 'smush' 
+[2022-10-05 01:58:15 : INFO] - Processing task with ID : 64, and type 'smush' 
+[2022-10-05 01:58:15 : INFO] - Re_Smush_It_Task with attachment ID : 1013, autocreated on : October 05, 2022 01:55:05 
+[2022-10-05 01:58:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:58:15 : INFO] - 75 
+[2022-10-05 01:58:17 : INFO] - Backing up the original image - 2022/10/IMG_8496-1-updraft-pre-smush-original.jpeg 
+[2022-10-05 01:58:17 : INFO] - Re_Smush_It_Task with attachment ID : 1013, autocreated on : October 05, 2022 01:55:05 
+[2022-10-05 01:58:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:58:17 : INFO] - 75 
+[2022-10-05 01:58:18 : INFO] - Re_Smush_It_Task with attachment ID : 1013, autocreated on : October 05, 2022 01:55:05 
+[2022-10-05 01:58:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:58:18 : INFO] - 75 
+[2022-10-05 01:58:19 : INFO] - Re_Smush_It_Task with attachment ID : 1013, autocreated on : October 05, 2022 01:55:05 
+[2022-10-05 01:58:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:58:19 : INFO] - 75 
+[2022-10-05 01:58:20 : INFO] - Re_Smush_It_Task with attachment ID : 1013, autocreated on : October 05, 2022 01:55:05 
+[2022-10-05 01:58:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 01:58:20 : INFO] - 75 
+[2022-10-05 01:58:21 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/IMG_8496-1.jpeg. 
+[2022-10-05 01:58:21 : INFO] - Completed processing task with ID : 64, and type 'smush' 
+[2022-10-05 01:58:21 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-10-05 01:58:21 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2022-10-05 01:58:21 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-10-05 01:58:21 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2022-10-05 02:08:56 : INFO] - 
+ 
+[2022-10-05 02:08:56 : INFO] - Header for logs at time:  Wed, 05 Oct 2022 02:08:56 +0000 on https://jk2333.com 
+[2022-10-05 02:08:56 : INFO] - WP: 6.0.2 
+[2022-10-05 02:08:56 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-05 02:08:56 : INFO] - MySQL: 8.0.24 
+[2022-10-05 02:08:56 : INFO] - WPLANG: zh_CN 
+[2022-10-05 02:08:56 : INFO] - Server: nginx/1.20.1 
+[2022-10-05 02:08:56 : INFO] - Outbound connections: N 
+[2022-10-05 02:08:56 : INFO] - safe_mode: 0 
+[2022-10-05 02:08:56 : INFO] - max_execution_time: 300 
+[2022-10-05 02:08:56 : INFO] - memory_limit: 256M (used: 15.2M | 2M) 
+[2022-10-05 02:08:56 : INFO] - multisite: N 
+[2022-10-05 02:08:56 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-05 02:08:56 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-10-05 07:00:43 : INFO] - Re_Smush_It_Task with attachment ID : 1019, autocreated on : October 05, 2022 07:00:43 
+[2022-10-05 07:06:20 : INFO] - 
+ 
+[2022-10-05 07:06:20 : INFO] - Header for logs at time:  Wed, 05 Oct 2022 07:06:20 +0000 on https://jk2333.com 
+[2022-10-05 07:06:20 : INFO] - WP: 6.0.2 
+[2022-10-05 07:06:20 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-05 07:06:20 : INFO] - MySQL: 8.0.24 
+[2022-10-05 07:06:20 : INFO] - WPLANG: zh_CN 
+[2022-10-05 07:06:20 : INFO] - Server: nginx/1.20.1 
+[2022-10-05 07:06:20 : INFO] - Outbound connections: N 
+[2022-10-05 07:06:20 : INFO] - safe_mode: 0 
+[2022-10-05 07:06:20 : INFO] - max_execution_time: 300 
+[2022-10-05 07:06:20 : INFO] - memory_limit: 256M (used: 15.2M | 2M) 
+[2022-10-05 07:06:20 : INFO] - multisite: N 
+[2022-10-05 07:06:20 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-05 07:06:20 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-05 07:06:20 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-10-05 07:06:20 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-10-05 07:06:20 : INFO] - Processing task with ID : 65, and type 'smush' 
+[2022-10-05 07:06:20 : INFO] - Re_Smush_It_Task with attachment ID : 1019, autocreated on : October 05, 2022 07:00:43 
+[2022-10-05 07:06:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 07:06:20 : INFO] - 75 
+[2022-10-05 07:06:22 : INFO] - Backing up the original image - 2022/10/Cyberpunk.Edgerunners-updraft-pre-smush-original.jpg 
+[2022-10-05 07:06:22 : INFO] - Re_Smush_It_Task with attachment ID : 1019, autocreated on : October 05, 2022 07:00:43 
+[2022-10-05 07:06:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 07:06:22 : INFO] - 75 
+[2022-10-05 07:06:23 : INFO] - Re_Smush_It_Task with attachment ID : 1019, autocreated on : October 05, 2022 07:00:43 
+[2022-10-05 07:06:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 07:06:23 : INFO] - 75 
+[2022-10-05 07:06:24 : INFO] - Re_Smush_It_Task with attachment ID : 1019, autocreated on : October 05, 2022 07:00:43 
+[2022-10-05 07:06:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 07:06:24 : INFO] - 75 
+[2022-10-05 07:06:25 : INFO] - Re_Smush_It_Task with attachment ID : 1019, autocreated on : October 05, 2022 07:00:43 
+[2022-10-05 07:06:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 07:06:25 : INFO] - 75 
+[2022-10-05 07:06:26 : INFO] - Re_Smush_It_Task with attachment ID : 1019, autocreated on : October 05, 2022 07:00:43 
+[2022-10-05 07:06:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 07:06:26 : INFO] - 75 
+[2022-10-05 07:06:27 : INFO] - Re_Smush_It_Task with attachment ID : 1019, autocreated on : October 05, 2022 07:00:43 
+[2022-10-05 07:06:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-05 07:06:27 : INFO] - 75 
+[2022-10-05 07:06:29 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/Cyberpunk.Edgerunners.jpg. 
+[2022-10-05 07:06:29 : INFO] - Completed processing task with ID : 65, and type 'smush' 
+[2022-10-05 07:06:29 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-10-05 07:06:29 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-05 07:06:29 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-10-05 07:06:29 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-05 07:16:42 : INFO] - 
+ 
+[2022-10-05 07:16:42 : INFO] - Header for logs at time:  Wed, 05 Oct 2022 07:16:42 +0000 on https://jk2333.com 
+[2022-10-05 07:16:42 : INFO] - WP: 6.0.2 
+[2022-10-05 07:16:42 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-05 07:16:42 : INFO] - MySQL: 8.0.24 
+[2022-10-05 07:16:42 : INFO] - WPLANG: zh_CN 
+[2022-10-05 07:16:42 : INFO] - Server: nginx/1.20.1 
+[2022-10-05 07:16:42 : INFO] - Outbound connections: N 
+[2022-10-05 07:16:42 : INFO] - safe_mode: 0 
+[2022-10-05 07:16:42 : INFO] - max_execution_time: 300 
+[2022-10-05 07:16:42 : INFO] - memory_limit: 256M (used: 15.2M | 2M) 
+[2022-10-05 07:16:42 : INFO] - multisite: N 
+[2022-10-05 07:16:42 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-05 07:16:42 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
