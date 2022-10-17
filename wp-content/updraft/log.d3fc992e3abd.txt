@@ -1,0 +1,489 @@
+0000.001 (0) Opened log file at time: Sun, 16 Oct 2022 20:54:05 +0000 on https://jk2333.com
+0000.058 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.23 WP: 6.0.2 PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) MySQL: 8.0.24 (max packet size=1073741824) WPLANG: zh_CN Server: nginx/1.20.1 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 16.7M | 2M) multisite: N openssl: OpenSSL 1.0.2u  20 Dec 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.112 (0) Free space on disk containing Updraft's temporary directory: 16201.6 MB
+0000.169 (0) Tasks: Backup files:  (schedule: twicedaily) Backup DB: 1 (schedule: daily)
+0000.272 (0) Processed schedules. Combining jobs from co-inciding events. Tasks now: Backup files: 1 Backup DB: 1
+0000.375 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1665867381, seconds_ago=86265)
+0000.437 (0) Set semaphore last lock (fd) time to 2022-10-16 20:54:06
+0000.488 (0) Semaphore lock (fd) complete
+0000.554 (0) Backup run: resumption=0, nonce=d3fc992e3abd, file_nonce=d3fc992e3abd begun at=1665953645 (1s ago), job type=backup
+0000.615 (0) Scheduling a resumption (1) after 300 seconds (1665953946) in case this run gets aborted
+0000.721 (0) Checking if we have a zip executable available
+0000.779 (0) Creation of backups of directories: beginning
+0000.844 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0011.392 (0) Total entities for the zip file: 3491 directories, 12670 files (0 skipped as non-modified), 184.7 MB
+0011.416 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0011.691 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 100 files added (on-disk size: 643.3 KB)
+0011.806 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 200 files added (on-disk size: 643.3 KB)
+0011.852 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 300 files added (on-disk size: 643.3 KB)
+0011.899 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 400 files added (on-disk size: 643.3 KB)
+0011.956 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 500 files added (on-disk size: 643.3 KB)
+0012.069 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 600 files added (on-disk size: 643.3 KB)
+0012.130 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 700 files added (on-disk size: 643.3 KB)
+0012.226 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 800 files added (on-disk size: 643.3 KB)
+0012.297 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 900 files added (on-disk size: 643.3 KB)
+0012.364 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 1000 files added (on-disk size: 643.3 KB)
+0012.383 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.9 MB, 12670 files batched, 1001 (1002) added so far); re-opening (prior size: 643.3 KB)
+0013.328 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 1100 files added (on-disk size: 3797.4 KB)
+0013.391 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 1200 files added (on-disk size: 3797.4 KB)
+0013.474 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 1300 files added (on-disk size: 3797.4 KB)
+0013.614 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 1400 files added (on-disk size: 3797.4 KB)
+0013.756 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 1500 files added (on-disk size: 3797.4 KB)
+0013.870 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 1600 files added (on-disk size: 3797.4 KB)
+0013.936 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 1700 files added (on-disk size: 3797.4 KB)
+0013.993 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 1800 files added (on-disk size: 3797.4 KB)
+0014.064 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 1900 files added (on-disk size: 3797.4 KB)
+0014.147 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 2000 files added (on-disk size: 3797.4 KB)
+0014.156 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.2 MB, 12670 files batched, 1001 (2003) added so far); re-opening (prior size: 3797.4 KB)
+0016.433 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 2100 files added (on-disk size: 9984.3 KB)
+0016.554 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 2200 files added (on-disk size: 9984.3 KB)
+0016.607 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 2300 files added (on-disk size: 9984.3 KB)
+0016.705 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 2400 files added (on-disk size: 9984.3 KB)
+0016.820 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 2500 files added (on-disk size: 9984.3 KB)
+0016.908 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 2600 files added (on-disk size: 9984.3 KB)
+0017.003 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 2700 files added (on-disk size: 9984.3 KB)
+0017.111 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 12670 files batched, 786 (2789) added so far); re-opening (prior size: 9984.3 KB)
+0019.234 (0) A useful amount of data was added after this amount of zip processing: 3.2 s (normalised: 3.2 s, rate: 8105.7 KB/s)
+0019.291 (0) Performance is good - will increase the amount of data we attempt to batch (time=3.161817073822, normalised_time=3.1582620050337, max_time=19.282455921173, data points known=1, old_max_bytes=26214400, new_max_bytes=96029653)
+0019.369 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 2800 files added (on-disk size: 17890.3 KB)
+0019.475 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 2900 files added (on-disk size: 17890.3 KB)
+0019.590 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 3000 files added (on-disk size: 17890.3 KB)
+0019.676 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 3100 files added (on-disk size: 17890.3 KB)
+0019.720 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 3200 files added (on-disk size: 17890.3 KB)
+0019.813 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 3300 files added (on-disk size: 17890.3 KB)
+0019.852 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 3400 files added (on-disk size: 17890.3 KB)
+0019.970 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 3500 files added (on-disk size: 17890.3 KB)
+0020.074 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 3600 files added (on-disk size: 17890.3 KB)
+0020.139 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 3700 files added (on-disk size: 17890.3 KB)
+0020.200 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.6 MB, 12670 files batched, 1001 (3790) added so far); re-opening (prior size: 17890.3 KB)
+0021.091 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 3800 files added (on-disk size: 20640.2 KB)
+0021.185 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 3900 files added (on-disk size: 20640.2 KB)
+0021.257 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 4000 files added (on-disk size: 20640.2 KB)
+0021.331 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 4100 files added (on-disk size: 20640.2 KB)
+0021.396 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 4200 files added (on-disk size: 20640.2 KB)
+0021.516 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 4300 files added (on-disk size: 20640.2 KB)
+0021.605 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 4400 files added (on-disk size: 20640.2 KB)
+0021.687 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 4500 files added (on-disk size: 20640.2 KB)
+0021.776 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 4600 files added (on-disk size: 20640.2 KB)
+0021.865 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 4700 files added (on-disk size: 20640.2 KB)
+0021.937 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.6 MB, 12670 files batched, 1001 (4791) added so far); re-opening (prior size: 20640.2 KB)
+0022.801 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 4800 files added (on-disk size: 29586.6 KB)
+0022.858 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 4900 files added (on-disk size: 29586.6 KB)
+0022.961 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 5000 files added (on-disk size: 29586.6 KB)
+0023.008 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 5100 files added (on-disk size: 29586.6 KB)
+0023.115 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 5200 files added (on-disk size: 29586.6 KB)
+0023.184 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 5300 files added (on-disk size: 29586.6 KB)
+0023.279 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 5400 files added (on-disk size: 29586.6 KB)
+0023.329 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 5500 files added (on-disk size: 29586.6 KB)
+0023.378 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 5600 files added (on-disk size: 29586.6 KB)
+0023.429 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 5700 files added (on-disk size: 29586.6 KB)
+0023.485 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (17.2 MB, 12670 files batched, 1001 (5792) added so far); re-opening (prior size: 29586.6 KB)
+0024.851 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 5800 files added (on-disk size: 36272.1 KB)
+0024.958 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 5900 files added (on-disk size: 36272.1 KB)
+0025.021 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 6000 files added (on-disk size: 36272.1 KB)
+0025.117 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 6100 files added (on-disk size: 36272.1 KB)
+0025.225 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 6200 files added (on-disk size: 36272.1 KB)
+0025.335 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 6300 files added (on-disk size: 36272.1 KB)
+0025.430 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 6400 files added (on-disk size: 36272.1 KB)
+0025.527 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 6500 files added (on-disk size: 36272.1 KB)
+0025.623 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 6600 files added (on-disk size: 36272.1 KB)
+0025.734 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 6700 files added (on-disk size: 36272.1 KB)
+0025.849 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.9 MB, 12670 files batched, 1001 (6793) added so far); re-opening (prior size: 36272.1 KB)
+0027.109 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 6800 files added (on-disk size: 40308 KB)
+0027.196 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 6900 files added (on-disk size: 40308 KB)
+0027.290 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 7000 files added (on-disk size: 40308 KB)
+0027.382 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 7100 files added (on-disk size: 40308 KB)
+0027.464 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 7200 files added (on-disk size: 40308 KB)
+0027.522 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 7300 files added (on-disk size: 40308 KB)
+0027.595 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 7400 files added (on-disk size: 40308 KB)
+0027.646 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 7500 files added (on-disk size: 40308 KB)
+0027.694 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 7600 files added (on-disk size: 40308 KB)
+0027.787 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 7700 files added (on-disk size: 40308 KB)
+0027.838 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.1 MB, 12670 files batched, 1001 (7794) added so far); re-opening (prior size: 40308 KB)
+0028.973 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 7800 files added (on-disk size: 45494.6 KB)
+0029.033 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 7900 files added (on-disk size: 45494.6 KB)
+0029.100 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 8000 files added (on-disk size: 45494.6 KB)
+0029.148 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 8100 files added (on-disk size: 45494.6 KB)
+0029.253 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 8200 files added (on-disk size: 45494.6 KB)
+0029.320 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 8300 files added (on-disk size: 45494.6 KB)
+0029.429 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 8400 files added (on-disk size: 45494.6 KB)
+0029.485 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 8500 files added (on-disk size: 45494.6 KB)
+0029.539 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 8600 files added (on-disk size: 45494.6 KB)
+0029.615 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 8700 files added (on-disk size: 45494.6 KB)
+0029.712 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.7 MB, 12670 files batched, 1001 (8795) added so far); re-opening (prior size: 45494.6 KB)
+0031.555 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 8800 files added (on-disk size: 50009.8 KB)
+0031.620 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 8900 files added (on-disk size: 50009.8 KB)
+0031.685 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 9000 files added (on-disk size: 50009.8 KB)
+0031.739 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 9100 files added (on-disk size: 50009.8 KB)
+0031.821 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 9200 files added (on-disk size: 50009.8 KB)
+0031.923 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 9300 files added (on-disk size: 50009.8 KB)
+0031.984 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 9400 files added (on-disk size: 50009.8 KB)
+0032.035 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 9500 files added (on-disk size: 50009.8 KB)
+0032.085 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 9600 files added (on-disk size: 50009.8 KB)
+0032.163 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 9700 files added (on-disk size: 50009.8 KB)
+0032.224 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.9 MB, 12670 files batched, 1001 (9796) added so far); re-opening (prior size: 50009.8 KB)
+0034.068 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 9800 files added (on-disk size: 52046.7 KB)
+0034.120 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 9900 files added (on-disk size: 52046.7 KB)
+0034.206 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 10000 files added (on-disk size: 52046.7 KB)
+0034.265 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 10100 files added (on-disk size: 52046.7 KB)
+0034.311 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 10200 files added (on-disk size: 52046.7 KB)
+0034.396 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 10300 files added (on-disk size: 52046.7 KB)
+0034.448 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 10400 files added (on-disk size: 52046.7 KB)
+0034.506 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 10500 files added (on-disk size: 52046.7 KB)
+0034.552 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 10600 files added (on-disk size: 52046.7 KB)
+0034.618 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 10700 files added (on-disk size: 52046.7 KB)
+0034.720 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.2 MB, 12670 files batched, 1001 (10797) added so far); re-opening (prior size: 52046.7 KB)
+0036.296 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 10800 files added (on-disk size: 55324.6 KB)
+0036.356 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 10900 files added (on-disk size: 55324.6 KB)
+0036.439 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 11000 files added (on-disk size: 55324.6 KB)
+0036.506 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 11100 files added (on-disk size: 55324.6 KB)
+0036.601 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 11200 files added (on-disk size: 55324.6 KB)
+0036.651 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 11300 files added (on-disk size: 55324.6 KB)
+0036.715 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 11400 files added (on-disk size: 55324.6 KB)
+0036.776 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 11500 files added (on-disk size: 55324.6 KB)
+0036.832 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 11600 files added (on-disk size: 55324.6 KB)
+0036.927 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 11700 files added (on-disk size: 55324.6 KB)
+0036.997 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.7 MB, 12670 files batched, 1001 (11798) added so far); re-opening (prior size: 55324.6 KB)
+0039.287 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 11800 files added (on-disk size: 60849.2 KB)
+0039.350 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 11900 files added (on-disk size: 60849.2 KB)
+0039.413 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 12000 files added (on-disk size: 60849.2 KB)
+0039.495 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 12100 files added (on-disk size: 60849.2 KB)
+0039.581 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 12200 files added (on-disk size: 60849.2 KB)
+0039.629 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 12300 files added (on-disk size: 60849.2 KB)
+0039.680 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 12400 files added (on-disk size: 60849.2 KB)
+0039.752 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 12500 files added (on-disk size: 60849.2 KB)
+0039.869 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.tmp: 12600 files added (on-disk size: 60849.2 KB)
+0041.310 (0) Creating zip file manifest (backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip.list-temp.tmp)
+0041.464 (0) Successfully created zip file manifest (size: 1067553)
+0043.431 (0) Created plugins zip (0) - 63091.2 KB in 42.5 s (1483.6 KB/s) (sha1: d766e3f73b0f295037c82e5631e4678ed961139f, sha256: d6036ebffb33d8c53b69229ad86314625c0f46a16d6854644395d2802fe8b8e4)
+0043.489 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0043.500 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-0d3d2fed0cc3fbb20644b359312b40e5)
+0045.651 (0) Google Drive: quota usage: used=4210.4 MB, total=15360 MB, available=11149.6 MB
+0045.671 (0) Google Drive: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip: Attempting to upload to Google Drive (into folder id: 1ZqoYG2NWCQzyDKqY3_HW0yEH3EjmiMM_)
+0046.431 (0) Googledrive chunked upload: 1.6 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 19.5 / 8)
+0046.818 (0) Googledrive chunked upload: 4.9 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 19.6 / 8)
+0047.233 (0) Googledrive chunked upload: 11.4 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 19.6 / 8)
+0050.450 (0) Googledrive chunked upload: 24.3 % uploaded (15728640)
+0050.955 (0) Googledrive chunked upload: 37.3 % uploaded (24117248 - increasing chunk size to 16384 KB - memory usage: 19.6 / 8)
+0051.622 (0) Googledrive chunked upload: 63.3 % uploaded (40894464 - increasing chunk size to 32768 KB - memory usage: 19.6 / 8)
+0053.289 (0) Googledrive chunked upload: 100 % uploaded (40894464)
+0053.311 (0) Google Drive: OK: Archive backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip uploaded in 7.62 seconds
+0053.364 (0) Recording as successfully uploaded: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip
+0053.438 (0) Deleting local file: backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip: OK
+0053.516 (0) Beginning creation of dump of themes (split every: 400 MB)
+0054.581 (0) Total entities for the zip file: 343 directories, 1070 files (0 skipped as non-modified), 35.8 MB
+0054.646 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0054.701 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0054.762 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0054.823 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0054.925 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0054.986 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0055.040 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0055.111 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0055.188 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0055.270 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0055.286 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (32.5 MB, 1070 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0058.593 (0) Creating zip file manifest (backup_2022-10-17-0454_JKblog_d3fc992e3abd-themes.zip.list-temp.tmp)
+0058.621 (0) Successfully created zip file manifest (size: 81183)
+0059.309 (0) Created themes zip (0) - 14729.4 KB in 5.7 s (2576 KB/s) (sha1: 2215794f3099b5c9ede6f84f0cb7f0bb0a2818fe, sha256: 04fa246e8e0b4bd9324031a025cd566e03a5c73816e24554ef09e1ee66fcd178)
+0059.365 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0059.392 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-0d3d2fed0cc3fbb20644b359312b40e5)
+0059.789 (0) Google Drive: quota usage: used=4272 MB, total=15360 MB, available=11088 MB
+0059.844 (0) Google Drive: backup_2022-10-17-0454_JKblog_d3fc992e3abd-themes.zip: Attempting to upload to Google Drive (into folder id: 1ZqoYG2NWCQzyDKqY3_HW0yEH3EjmiMM_)
+0060.612 (0) Googledrive chunked upload: 7 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 17.8 / 8)
+0061.064 (0) Googledrive chunked upload: 20.9 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 17.8 / 8)
+0061.637 (0) Googledrive chunked upload: 48.7 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 17.8 / 8)
+0063.248 (0) Googledrive chunked upload: 100 % uploaded (7340032)
+0063.319 (0) Google Drive: OK: Archive backup_2022-10-17-0454_JKblog_d3fc992e3abd-themes.zip uploaded in 3.46 seconds
+0063.372 (0) Recording as successfully uploaded: backup_2022-10-17-0454_JKblog_d3fc992e3abd-themes.zip
+0063.436 (0) Deleting local file: backup_2022-10-17-0454_JKblog_d3fc992e3abd-themes.zip: OK
+0063.506 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0063.556 (0) Looking for candidates to backup in: /www/wwwroot/jk2333.com/wp-content/uploads
+0063.618 (0) finding files: .htaccess: adding to list (1)
+0063.676 (0) finding files: webp-converter-for-media-test.png: adding to list (2)
+0063.736 (0) finding files: alm_templates: adding to list (3)
+0063.787 (0) finding files: elementor: adding to list (4)
+0063.804 (0) finding files: smush-3903e78900678c9a7e21.log: adding to list (5)
+0063.856 (0) finding files: 2021: adding to list (6)
+0063.908 (0) finding files: wpo-plugins-tables-list.json: adding to list (7)
+0063.960 (0) finding files: wpo: adding to list (8)
+0064.011 (0) finding files: smush-webp-test.png: adding to list (9)
+0064.064 (0) finding files: webp-converter-for-media-test.png2: adding to list (10)
+0064.116 (0) finding files: 2022: adding to list (11)
+0064.124 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0064.480 (0) Total entities for the zip file: 31 directories, 486 files (0 skipped as non-modified), 96.9 MB
+0064.595 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0064.695 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0064.789 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0064.882 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0064.918 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 91.6 MB added on this batch (91.6 MB, 486 files batched, 455 (455) added so far); re-opening (prior size: 0 KB)
+0067.979 (0) A useful amount of data was added after this amount of zip processing: 3.9 s (normalised: 3.9 s, rate: 24010.5 KB/s)
+0068.006 (0) Performance is good - will increase the amount of data we attempt to batch (time=3.9066920280457, normalised_time=3.9057447300219, max_time=67.995445966721, data points known=1, old_max_bytes=96029653, new_max_bytes=209715200)
+0068.969 (0) Creating zip file manifest (backup_2022-10-17-0454_JKblog_d3fc992e3abd-uploads.zip.list-temp.tmp)
+0068.984 (0) Successfully created zip file manifest (size: 31749)
+0072.265 (0) Created uploads zip (0) - 98321.8 KB in 8.1 s (12135.8 KB/s) (sha1: a1aad8cceb610340ced24004fd471777b5a98135, sha256: bb7a0abd731da0c40df29a65c4df9eaaa11dfe911ae7479af9c72d793b78827f)
+0072.308 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0072.377 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-0d3d2fed0cc3fbb20644b359312b40e5)
+0072.657 (0) Google Drive: quota usage: used=4286.4 MB, total=15360 MB, available=11073.6 MB
+0072.708 (0) Google Drive: backup_2022-10-17-0454_JKblog_d3fc992e3abd-uploads.zip: Attempting to upload to Google Drive (into folder id: 1ZqoYG2NWCQzyDKqY3_HW0yEH3EjmiMM_)
+0073.455 (0) Googledrive chunked upload: 1 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 17.6 / 8)
+0073.880 (0) Googledrive chunked upload: 3.1 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 17.6 / 8)
+0074.366 (0) Googledrive chunked upload: 7.3 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 17.6 / 8)
+0074.901 (0) Googledrive chunked upload: 15.6 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 17.6 / 8)
+0075.717 (0) Googledrive chunked upload: 32.3 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 17.6 / 8)
+0076.711 (0) Googledrive chunked upload: 65.6 % uploaded (66060288 - increasing chunk size to 65536 KB - memory usage: 17.6 / 8)
+0078.571 (0) Googledrive chunked upload: 100 % uploaded (66060288)
+0078.657 (0) Google Drive: OK: Archive backup_2022-10-17-0454_JKblog_d3fc992e3abd-uploads.zip uploaded in 5.9 seconds
+0078.666 (0) Recording as successfully uploaded: backup_2022-10-17-0454_JKblog_d3fc992e3abd-uploads.zip
+0078.706 (0) Deleting local file: backup_2022-10-17-0454_JKblog_d3fc992e3abd-uploads.zip: OK
+0078.737 (0) Beginning backup of other directories found in the content directory (index: 0)
+0078.746 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0078.760 (0) Looking for candidates to backup in: /www/wwwroot/jk2333.com/wp-content
+0078.775 (0) finding files: .htaccess: adding to list (1)
+0078.785 (0) finding files: object-cache.php: adding to list (2)
+0078.795 (0) finding files: wp-cache-config.php: adding to list (3)
+0078.821 (0) finding files: smush-webp: adding to list (4)
+0078.876 (0) finding files: languages: adding to list (5)
+0078.887 (0) finding files: uploads-webpc: adding to list (6)
+0078.897 (0) finding files: upgrade: skipping: excluded by options
+0078.908 (0) finding files: gallery: adding to list (7)
+0078.917 (0) finding files: advanced-cache.php: adding to list (8)
+0078.926 (0) finding files: updraft: skipping: this is the updraft directory
+0078.980 (0) finding files: themes: skipping: this is the themes directory
+0078.995 (0) finding files: litespeed: adding to list (9)
+0079.005 (0) finding files: cache: skipping: excluded by options
+0079.015 (0) finding files: plugins: skipping: this is the plugins directory
+0079.023 (0) finding files: index.php: adding to list (10)
+0079.032 (0) finding files: uploads: skipping: this is the uploads directory
+0079.084 (0) finding files: ngg: adding to list (11)
+0079.301 (0) Total entities for the zip file: 59 directories, 241 files (0 skipped as non-modified), 10.2 MB
+0079.389 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0079.428 (0) Zip: backup_2022-10-17-0454_JKblog_d3fc992e3abd-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0080.240 (0) Creating zip file manifest (backup_2022-10-17-0454_JKblog_d3fc992e3abd-others.zip.list-temp.tmp)
+0080.251 (0) Successfully created zip file manifest (size: 15700)
+0080.522 (0) Created others zip (0) - 6265.9 KB in 1.4 s (4462.7 KB/s) (sha1: 3047b00674405f58fc10726d4b874522e7d50ee8, sha256: 4caac8c54e554d29bb76caea0bfbe15e4932bc814b3531159693e1559128ef78)
+0080.568 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0080.577 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-0d3d2fed0cc3fbb20644b359312b40e5)
+0080.807 (0) Google Drive: quota usage: used=4382.4 MB, total=15360 MB, available=10977.6 MB
+0080.859 (0) Google Drive: backup_2022-10-17-0454_JKblog_d3fc992e3abd-others.zip: Attempting to upload to Google Drive (into folder id: 1ZqoYG2NWCQzyDKqY3_HW0yEH3EjmiMM_)
+0081.581 (0) Googledrive chunked upload: 16.3 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 17.6 / 8)
+0081.981 (0) Googledrive chunked upload: 49 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 17.6 / 8)
+0083.278 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0083.329 (0) Google Drive: OK: Archive backup_2022-10-17-0454_JKblog_d3fc992e3abd-others.zip uploaded in 2.42 seconds
+0083.340 (0) Recording as successfully uploaded: backup_2022-10-17-0454_JKblog_d3fc992e3abd-others.zip
+0083.359 (0) Deleting local file: backup_2022-10-17-0454_JKblog_d3fc992e3abd-others.zip: OK
+0083.410 (0) Saving backup status to database (elements: 8)
+0083.439 (0) Beginning creation of database dump (WordPress DB)
+0083.456 (0) SQL compatibility mode is: NO_ENGINE_SUBSTITUTION
+0083.647 (0) Table wp_options: Total expected rows (via COUNT): 971
+0083.869 (0) Table wp_options: Rows added in this batch (next record: 739097): 970 (uncompressed bytes in this segment=2260257) in 0.29 seconds
+0083.951 (0) Table wp_options: finishing file(s) (2, 464.9 KB)
+0084.025 (0) Table wp_users: Total expected rows (via COUNT): 2
+0084.076 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.134 (0) Table wp_users: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1701) in 0.11 seconds
+0084.203 (0) Table wp_users: finishing file(s) (2, 0.7 KB)
+0084.283 (0) Table wp_usermeta: Total expected rows (via COUNT): 66
+0084.333 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.406 (0) Table wp_usermeta: Rows added in this batch (next record: 74): 66 (uncompressed bytes in this segment=42836) in 0.14 seconds
+0084.499 (0) Table wp_usermeta: finishing file(s) (2, 6.1 KB)
+0084.577 (0) Table wp_commentmeta: Total expected rows (via COUNT): 16
+0084.628 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.694 (0) Table wp_commentmeta: Rows added in this batch (next record: 4666): 16 (uncompressed bytes in this segment=5846) in 0.13 seconds
+0084.769 (0) Table wp_commentmeta: finishing file(s) (2, 1.4 KB)
+0084.840 (0) Table wp_comments: Total expected rows (via COUNT): 10
+0084.893 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0084.947 (0) Table wp_comments: Rows added in this batch (next record: 1190): 10 (uncompressed bytes in this segment=5248) in 0.11 seconds
+0085.119 (0) Table wp_comments: finishing file(s) (2, 1.6 KB)
+0085.229 (0) Table wp_e_notes: Total expected rows (via COUNT): 0
+0085.295 (0) Table wp_e_notes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2049) in 0.09 seconds
+0085.341 (0) Table wp_e_notes: finishing file(s) (2, 0.8 KB)
+0085.373 (0) Table wp_e_notes_users_relations: Total expected rows (via COUNT): 0
+0085.383 (0) Table wp_e_notes_users_relations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=871) in 0.02 seconds
+0085.456 (0) Table wp_e_notes_users_relations: finishing file(s) (2, 0.4 KB)
+0085.487 (0) Table wp_links: Total expected rows (via COUNT): 0
+0085.541 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1496) in 0.06 seconds
+0085.568 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0085.618 (0) Table wp_postmeta: Total expected rows (approximate): 4709
+0085.853 (0) Table wp_postmeta: Rows added in this batch (next record: 8103): 4350 (uncompressed bytes in this segment=4013140) in 0.26 seconds
+0085.940 (0) Table wp_postmeta: finishing file(s) (2, 135.3 KB)
+0086.001 (0) Table wp_posts: Total expected rows (via COUNT): 580
+0086.145 (0) Table wp_posts: Rows added in this batch (next record: 1546): 580 (uncompressed bytes in this segment=2436029) in 0.18 seconds
+0086.199 (0) Table wp_posts: finishing file(s) (2, 93.2 KB)
+0086.224 (0) Table wp_term_relationships: Total expected rows (approximate): 72
+0086.245 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 89 (uncompressed bytes in this segment=1986) in 0.02 seconds
+0086.274 (0) Table wp_term_relationships: finishing file(s) (2, 0.7 KB)
+0086.324 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 29
+0086.335 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.356 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 33): 29 (uncompressed bytes in this segment=1935) in 0.06 seconds
+0086.445 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.7 KB)
+0086.481 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0086.498 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=694) in 0.03 seconds
+0086.586 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0086.665 (0) Table wp_terms: Total expected rows (via COUNT): 29
+0086.677 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.751 (0) Table wp_terms: Rows added in this batch (next record: 33): 29 (uncompressed bytes in this segment=2203) in 0.09 seconds
+0086.787 (0) Table wp_terms: finishing file(s) (2, 1.1 KB)
+0086.822 (0) Table wp_alm: Total expected rows (via COUNT): 1
+0086.831 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0086.851 (0) Table wp_alm: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=906) in 0.04 seconds
+0086.887 (0) Table wp_alm: finishing file(s) (2, 0.5 KB)
+0086.908 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0086.926 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=525) in 0.02 seconds
+0086.963 (0) Table wp_e_events: finishing file(s) (2, 0.3 KB)
+0087.001 (0) Table wp_e_submissions: Total expected rows (via COUNT): 0
+0087.057 (0) Table wp_e_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2254) in 0.07 seconds
+0087.127 (0) Table wp_e_submissions: finishing file(s) (2, 0.7 KB)
+0087.208 (0) Table wp_e_submissions_actions_log: Total expected rows (via COUNT): 0
+0087.218 (0) Table wp_e_submissions_actions_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1243) in 0.02 seconds
+0087.257 (0) Table wp_e_submissions_actions_log: finishing file(s) (2, 0.5 KB)
+0087.310 (0) Table wp_e_submissions_values: Total expected rows (via COUNT): 0
+0087.365 (0) Table wp_e_submissions_values: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=716) in 0.08 seconds
+0087.446 (0) Table wp_e_submissions_values: finishing file(s) (2, 0.4 KB)
+0087.516 (0) Table wp_litespeed_avatar: Total expected rows (via COUNT): 27
+0087.576 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0087.637 (0) Table wp_litespeed_avatar: Rows added in this batch (next record: 27): 27 (uncompressed bytes in this segment=4571) in 0.13 seconds
+0087.707 (0) Table wp_litespeed_avatar: finishing file(s) (2, 1.4 KB)
+0087.772 (0) Table wp_litespeed_url: Total expected rows (via COUNT): 0
+0087.791 (0) Table wp_litespeed_url: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=679) in 0.02 seconds
+0087.868 (0) Table wp_litespeed_url: finishing file(s) (2, 0.4 KB)
+0087.897 (0) Table wp_litespeed_url_file: Total expected rows (via COUNT): 0
+0087.907 (0) Table wp_litespeed_url_file: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1090) in 0.02 seconds
+0087.955 (0) Table wp_litespeed_url_file: finishing file(s) (2, 0.5 KB)
+0088.011 (0) Table wp_ngg_album: Total expected rows (via COUNT): 0
+0088.073 (0) Table wp_ngg_album: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=909) in 0.08 seconds
+0088.150 (0) Table wp_ngg_album: finishing file(s) (2, 0.4 KB)
+0088.223 (0) Table wp_ngg_gallery: Total expected rows (via COUNT): 1
+0088.233 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0088.266 (0) Table wp_ngg_gallery: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1194) in 0.05 seconds
+0088.322 (0) Table wp_ngg_gallery: finishing file(s) (2, 0.5 KB)
+0088.382 (0) Table wp_ngg_pictures: Total expected rows (via COUNT): 1
+0088.401 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0088.413 (0) Table wp_ngg_pictures: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2507) in 0.05 seconds
+0088.448 (0) Table wp_ngg_pictures: finishing file(s) (2, 1.3 KB)
+0088.474 (0) Table wp_smush_dir_images: Total expected rows (via COUNT): 0
+0088.533 (0) Table wp_smush_dir_images: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1206) in 0.06 seconds
+0088.607 (0) Table wp_smush_dir_images: finishing file(s) (2, 0.5 KB)
+0088.654 (0) Table wp_tm_taskmeta: Total expected rows (via COUNT): 0
+0088.716 (0) Table wp_tm_taskmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=712) in 0.07 seconds
+0088.813 (0) Table wp_tm_taskmeta: finishing file(s) (2, 0.4 KB)
+0088.884 (0) Table wp_tm_tasks: Total expected rows (via COUNT): 0
+0088.906 (0) Table wp_tm_tasks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=966) in 0.03 seconds
+0088.977 (0) Table wp_tm_tasks: finishing file(s) (2, 0.5 KB)
+0088.988 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_options.table.tmpr739098.gz (1/28/fopen): adding to final database dump
+0089.019 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_options.table.gz (2/28/fopen): adding to final database dump
+0089.038 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_users.table.tmpr3.gz (3/28/fopen): adding to final database dump
+0089.092 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_users.table.gz (4/28/fopen): adding to final database dump
+0089.108 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_usermeta.table.tmpr75.gz (5/28/fopen): adding to final database dump
+0089.120 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_usermeta.table.gz (6/28/fopen): adding to final database dump
+0089.132 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_commentmeta.table.tmpr4667.gz (7/28/fopen): adding to final database dump
+0089.141 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_commentmeta.table.gz (8/28/fopen): adding to final database dump
+0089.149 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_comments.table.tmpr1191.gz (9/28/fopen): adding to final database dump
+0089.165 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_comments.table.gz (10/28/fopen): adding to final database dump
+0089.216 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_e_notes.table.tmpr0.gz (11/28/fopen): adding to final database dump
+0089.225 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_e_notes.table.gz (12/28/fopen): adding to final database dump
+0089.233 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_e_notes_users_relations.table.tmpr0.gz (13/28/fopen): adding to final database dump
+0089.244 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_e_notes_users_relations.table.gz (14/28/fopen): adding to final database dump
+0089.252 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_links.table.tmpr0.gz (15/28/fopen): adding to final database dump
+0089.261 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_links.table.gz (16/28/fopen): adding to final database dump
+0089.270 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_postmeta.table.tmpr8104.gz (17/28/fopen): adding to final database dump
+0089.282 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_postmeta.table.gz (18/28/fopen): adding to final database dump
+0089.332 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_posts.table.tmpr1547.gz (19/28/fopen): adding to final database dump
+0089.347 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_posts.table.gz (20/28/fopen): adding to final database dump
+0089.356 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_term_relationships.table.tmpr100001.gz (21/28/fopen): adding to final database dump
+0089.366 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_term_relationships.table.gz (22/28/fopen): adding to final database dump
+0089.375 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_term_taxonomy.table.tmpr34.gz (23/28/fopen): adding to final database dump
+0089.384 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_term_taxonomy.table.gz (24/28/fopen): adding to final database dump
+0089.440 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_termmeta.table.tmpr0.gz (25/28/fopen): adding to final database dump
+0089.455 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_termmeta.table.gz (26/28/fopen): adding to final database dump
+0089.480 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_terms.table.tmpr34.gz (27/28/fopen): adding to final database dump
+0089.492 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_terms.table.gz (28/28/fopen): adding to final database dump
+0089.502 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_alm.table.tmpr2.gz (29/28/fopen): adding to final database dump
+0089.512 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_alm.table.gz (30/28/fopen): adding to final database dump
+0089.525 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_e_events.table.tmpr0.gz (31/28/fopen): adding to final database dump
+0089.536 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_e_events.table.gz (32/28/fopen): adding to final database dump
+0089.545 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_e_submissions.table.tmpr0.gz (33/28/fopen): adding to final database dump
+0089.557 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_e_submissions.table.gz (34/28/fopen): adding to final database dump
+0089.568 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_e_submissions_actions_log.table.tmpr0.gz (35/28/fopen): adding to final database dump
+0089.585 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_e_submissions_actions_log.table.gz (36/28/fopen): adding to final database dump
+0089.636 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_e_submissions_values.table.tmpr0.gz (37/28/fopen): adding to final database dump
+0089.645 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_e_submissions_values.table.gz (38/28/fopen): adding to final database dump
+0089.656 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_litespeed_avatar.table.tmpr28.gz (39/28/fopen): adding to final database dump
+0089.664 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_litespeed_avatar.table.gz (40/28/fopen): adding to final database dump
+0089.672 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_litespeed_url.table.tmpr0.gz (41/28/fopen): adding to final database dump
+0089.680 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_litespeed_url.table.gz (42/28/fopen): adding to final database dump
+0089.689 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_litespeed_url_file.table.tmpr0.gz (43/28/fopen): adding to final database dump
+0089.740 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_litespeed_url_file.table.gz (44/28/fopen): adding to final database dump
+0089.796 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_ngg_album.table.tmpr0.gz (45/28/fopen): adding to final database dump
+0089.848 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_ngg_album.table.gz (46/28/fopen): adding to final database dump
+0089.858 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_ngg_gallery.table.tmpr2.gz (47/28/fopen): adding to final database dump
+0089.867 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_ngg_gallery.table.gz (48/28/fopen): adding to final database dump
+0089.876 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_ngg_pictures.table.tmpr2.gz (49/28/fopen): adding to final database dump
+0089.884 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_ngg_pictures.table.gz (50/28/fopen): adding to final database dump
+0089.936 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_smush_dir_images.table.tmpr0.gz (51/28/fopen): adding to final database dump
+0089.945 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_smush_dir_images.table.gz (52/28/fopen): adding to final database dump
+0089.954 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_tm_taskmeta.table.tmpr0.gz (53/28/fopen): adding to final database dump
+0090.004 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_tm_taskmeta.table.gz (54/28/fopen): adding to final database dump
+0090.020 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_tm_tasks.table.tmpr0.gz (55/28/fopen): adding to final database dump
+0090.037 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db-table-wp_tm_tasks.table.gz (56/28/fopen): adding to final database dump
+0090.066 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db.gz: finished writing out complete database file (715.8 KB)
+0090.170 (0) Total database tables backed up: 28 (backup_2022-10-17-0454_JKblog_d3fc992e3abd-db.gz, size: 733125, sha1: f1bd958eebb5320b5dc899dcdecde0cad53e9b42, sha256: d0de41d2c6a9f36cae144bbfb0e500ea84e0b6b330f6347f0b2d974c7ec05855)
+0090.273 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-plugins.zip: plugins: This file has already been successfully uploaded
+0090.327 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-themes.zip: themes: This file has already been successfully uploaded
+0090.375 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-uploads.zip: uploads: This file has already been successfully uploaded
+0090.431 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-others.zip: others: This file has already been successfully uploaded
+0090.479 (0) backup_2022-10-17-0454_JKblog_d3fc992e3abd-db.gz: db: This file has not yet been successfully uploaded: will queue
+0090.532 (0) Saving backup history. Total backup size: 178.8 MB
+0090.592 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0090.665 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0090.716 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-0d3d2fed0cc3fbb20644b359312b40e5)
+0090.985 (0) Google Drive: quota usage: used=4388.5 MB, total=15360 MB, available=10971.5 MB
+0091.047 (0) Google Drive: backup_2022-10-17-0454_JKblog_d3fc992e3abd-db.gz: Attempting to upload to Google Drive (into folder id: 1ZqoYG2NWCQzyDKqY3_HW0yEH3EjmiMM_)
+0092.631 (0) Googledrive chunked upload: 100 % uploaded
+0092.697 (0) Google Drive: OK: Archive backup_2022-10-17-0454_JKblog_d3fc992e3abd-db.gz uploaded in 1.59 seconds
+0092.748 (0) Recording as successfully uploaded: backup_2022-10-17-0454_JKblog_d3fc992e3abd-db.gz
+0092.810 (0) Deleting local file: backup_2022-10-17-0454_JKblog_d3fc992e3abd-db.gz: OK
+0092.873 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0092.925 (0) Number of backup sets in history: 4; groups (db): 1
+0092.976 (0) Examining (for databases) backup set with group_id=0, nonce=d3fc992e3abd, datestamp=1665953645 (Oct 16 2022 20:54:05)
+0093.032 (0) This backup set is the backup set just made, so will not be deleted.
+0093.032 (0) Examining (for databases) backup set with group_id=0, nonce=e14b3091fd97, datestamp=1665910581 (Oct 16 2022 08:56:21)
+0093.032 (0) Examining (for databases) backup set with group_id=0, nonce=94781ccfb2d3, datestamp=1665867381 (Oct 15 2022 20:56:21)
+0093.032 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0093.095 (0) Examining (for databases) backup set with group_id=0, nonce=6ea34f2a8c2b, datestamp=1665781027 (Oct 14 2022 20:57:07)
+0093.095 (0) 1665781027: db: this set includes a database (backup_2022-10-15-0457_JKblog_6ea34f2a8c2b-db.gz); db count is now 2
+0093.095 (0) 1665781027: db: over retain limit (2); will delete this database
+0093.095 (0) Delete file: backup_2022-10-15-0457_JKblog_6ea34f2a8c2b-db.gz, service=googledrive
+0094.850 (0) Google Drive: backup_2022-10-15-0457_JKblog_6ea34f2a8c2b-db.gz: Deletion successful
+0094.917 (0) This backup set is now empty; will remove from history
+0094.968 (0) Deleting log file (log.6ea34f2a8c2b.txt)
+0095.037 (0) Number of backup sets in history: 3; groups (files): 1
+0095.088 (0) Examining (for files) backup set with nonce=d3fc992e3abd, datestamp=1665953645 (Oct 16 2022 20:54:05)
+0095.088 (0) This backup set is the backup set just made, so will not be deleted.
+0095.140 (0) This backup set is the backup set just made, so will not be deleted.
+0095.141 (0) This backup set is the backup set just made, so will not be deleted.
+0095.141 (0) This backup set is the backup set just made, so will not be deleted.
+0095.142 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0095.195 (0) Examining (for files) backup set with nonce=e14b3091fd97, datestamp=1665910581 (Oct 16 2022 08:56:21)
+0095.195 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0095.248 (0) Examining (for files) backup set with nonce=94781ccfb2d3, datestamp=1665867381 (Oct 15 2022 20:56:21)
+0095.248 (0) plugins: over retain limit (2); will delete this file entity
+0095.248 (0) themes: over retain limit (2); will delete this file entity
+0095.248 (0) uploads: over retain limit (2); will delete this file entity
+0095.248 (0) others: over retain limit (2); will delete this file entity
+0095.248 (0) Delete file: backup_2022-10-16-0456_JKblog_94781ccfb2d3-plugins.zip, service=googledrive
+0095.300 (0) Delete file: backup_2022-10-16-0456_JKblog_94781ccfb2d3-themes.zip, service=googledrive
+0095.352 (0) Delete file: backup_2022-10-16-0456_JKblog_94781ccfb2d3-uploads.zip, service=googledrive
+0095.404 (0) Delete file: backup_2022-10-16-0456_JKblog_94781ccfb2d3-others.zip, service=googledrive
+0096.454 (0) Google Drive: backup_2022-10-16-0456_JKblog_94781ccfb2d3-others.zip: Deletion successful
+0096.944 (0) Google Drive: backup_2022-10-16-0456_JKblog_94781ccfb2d3-uploads.zip: Deletion successful
+0097.434 (0) Google Drive: backup_2022-10-16-0456_JKblog_94781ccfb2d3-themes.zip: Deletion successful
+0098.315 (0) Google Drive: backup_2022-10-16-0456_JKblog_94781ccfb2d3-plugins.zip: Deletion successful
+0098.376 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0098.427 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0098.495 (0) Resume backup (d3fc992e3abd, 0): finish run
+0098.612 (0) Decremented the semaphore (fd) by 1
+0098.668 (0) Semaphore (fd) unlocked
+0098.720 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0098.845 (0) The backup apparently succeeded and is now complete
+0098.853 (0) No email will/can be sent - the user has not configured an email address.
+0098.863 (0) 备份显然是成功的，现在已经完成了。

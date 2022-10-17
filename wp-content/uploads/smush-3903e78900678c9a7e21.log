@@ -1270,3 +1270,377 @@
 [2022-10-05 07:16:42 : INFO] - multisite: N 
 [2022-10-05 07:16:42 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
 [2022-10-05 07:16:42 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-10-05 14:52:14 : INFO] - Re_Smush_It_Task with attachment ID : 1022, autocreated on : October 05, 2022 02:52:14 
+[2022-10-05 14:58:31 : INFO] - 
+ 
+[2022-10-05 14:58:31 : INFO] - Header for logs at time:  Wed, 05 Oct 2022 14:58:31 +0000 on https://jk2333.com 
+[2022-10-05 14:58:31 : INFO] - WP: 6.0.2 
+[2022-10-05 14:58:31 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-05 14:58:31 : INFO] - MySQL: 8.0.24 
+[2022-10-05 14:58:31 : INFO] - WPLANG: zh_CN 
+[2022-10-05 14:58:31 : INFO] - Server: nginx/1.20.1 
+[2022-10-05 14:58:31 : INFO] - Outbound connections: N 
+[2022-10-05 14:58:31 : INFO] - safe_mode: 0 
+[2022-10-05 14:58:31 : INFO] - max_execution_time: 300 
+[2022-10-05 14:58:31 : INFO] - memory_limit: 256M (used: 14.5M | 2M) 
+[2022-10-05 14:58:31 : INFO] - multisite: N 
+[2022-10-05 14:58:31 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-05 14:58:31 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-05 14:58:31 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-10-05 14:58:31 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-10-05 14:58:31 : INFO] - Processing task with ID : 66, and type 'smush' 
+[2022-10-05 14:58:31 : INFO] - Task with ID 66 and type (smush) failed with error code invalid_file_type - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/Cyberpunk.Edgerunners.webp - cannot be optimized, it has an invalid file type 
+[2022-10-05 14:58:31 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-10-05 14:58:31 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-05 14:58:31 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-10-05 14:58:31 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-05 15:10:20 : INFO] - 
+ 
+[2022-10-05 15:10:20 : INFO] - Header for logs at time:  Wed, 05 Oct 2022 15:10:20 +0000 on https://jk2333.com 
+[2022-10-05 15:10:20 : INFO] - WP: 6.0.2 
+[2022-10-05 15:10:20 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-05 15:10:20 : INFO] - MySQL: 8.0.24 
+[2022-10-05 15:10:20 : INFO] - WPLANG: zh_CN 
+[2022-10-05 15:10:20 : INFO] - Server: nginx/1.20.1 
+[2022-10-05 15:10:20 : INFO] - Outbound connections: N 
+[2022-10-05 15:10:20 : INFO] - safe_mode: 0 
+[2022-10-05 15:10:20 : INFO] - max_execution_time: 300 
+[2022-10-05 15:10:20 : INFO] - memory_limit: 256M (used: 14.5M | 2M) 
+[2022-10-05 15:10:20 : INFO] - multisite: N 
+[2022-10-05 15:10:20 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-05 15:10:20 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-10-06 08:52:13 : INFO] - Re_Smush_It_Task with attachment ID : 1028, autocreated on : October 06, 2022 08:52:12 
+[2022-10-06 08:57:15 : INFO] - 
+ 
+[2022-10-06 08:57:15 : INFO] - Header for logs at time:  Thu, 06 Oct 2022 08:57:15 +0000 on https://jk2333.com 
+[2022-10-06 08:57:15 : INFO] - WP: 6.0.2 
+[2022-10-06 08:57:15 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-06 08:57:15 : INFO] - MySQL: 8.0.24 
+[2022-10-06 08:57:15 : INFO] - WPLANG: zh_CN 
+[2022-10-06 08:57:15 : INFO] - Server: nginx/1.20.1 
+[2022-10-06 08:57:15 : INFO] - Outbound connections: N 
+[2022-10-06 08:57:15 : INFO] - safe_mode: 0 
+[2022-10-06 08:57:15 : INFO] - max_execution_time: 300 
+[2022-10-06 08:57:15 : INFO] - memory_limit: 256M (used: 14.5M | 2M) 
+[2022-10-06 08:57:15 : INFO] - multisite: N 
+[2022-10-06 08:57:15 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-06 08:57:15 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-06 08:57:15 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-10-06 08:57:15 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-10-06 08:57:15 : INFO] - Processing task with ID : 67, and type 'smush' 
+[2022-10-06 08:57:15 : INFO] - Task with ID 67 and type (smush) failed with error code invalid_file_type - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/Snipaste_2022-09-06_00-04-32.webp - cannot be optimized, it has an invalid file type 
+[2022-10-06 08:57:15 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-10-06 08:57:15 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-06 08:57:15 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-10-06 08:57:15 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-06 08:58:29 : INFO] - Re_Smush_It_Task with attachment ID : 1029, autocreated on : October 06, 2022 08:58:29 
+[2022-10-06 09:07:43 : INFO] - 
+ 
+[2022-10-06 09:07:43 : INFO] - Header for logs at time:  Thu, 06 Oct 2022 09:07:43 +0000 on https://jk2333.com 
+[2022-10-06 09:07:43 : INFO] - WP: 6.0.2 
+[2022-10-06 09:07:43 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-06 09:07:43 : INFO] - MySQL: 8.0.24 
+[2022-10-06 09:07:43 : INFO] - WPLANG: zh_CN 
+[2022-10-06 09:07:43 : INFO] - Server: nginx/1.20.1 
+[2022-10-06 09:07:43 : INFO] - Outbound connections: N 
+[2022-10-06 09:07:43 : INFO] - safe_mode: 0 
+[2022-10-06 09:07:43 : INFO] - max_execution_time: 300 
+[2022-10-06 09:07:43 : INFO] - memory_limit: 256M (used: 14.5M | 2M) 
+[2022-10-06 09:07:43 : INFO] - multisite: N 
+[2022-10-06 09:07:43 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-06 09:07:43 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-06 09:07:43 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-10-06 09:07:43 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-10-06 09:07:43 : INFO] - Processing task with ID : 68, and type 'smush' 
+[2022-10-06 09:07:43 : INFO] - Re_Smush_It_Task with attachment ID : 1029, autocreated on : October 06, 2022 08:58:29 
+[2022-10-06 09:07:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-06 09:07:43 : INFO] - 75 
+[2022-10-06 09:07:44 : INFO] - Backing up the original image - 2022/10/photo_2022-10-03_15-39-58-updraft-pre-smush-original.jpg 
+[2022-10-06 09:07:44 : INFO] - Re_Smush_It_Task with attachment ID : 1029, autocreated on : October 06, 2022 08:58:29 
+[2022-10-06 09:07:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-06 09:07:44 : INFO] - 75 
+[2022-10-06 09:07:44 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/photo_2022-10-03_15-39-58.jpg. 
+[2022-10-06 09:07:44 : INFO] - Completed processing task with ID : 68, and type 'smush' 
+[2022-10-06 09:07:44 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-10-06 09:07:44 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-06 09:07:44 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-10-06 09:07:44 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-06 09:10:10 : INFO] - Re_Smush_It_Task with attachment ID : 1031, autocreated on : October 06, 2022 09:10:10 
+[2022-10-06 09:17:45 : INFO] - 
+ 
+[2022-10-06 09:17:45 : INFO] - Header for logs at time:  Thu, 06 Oct 2022 09:17:45 +0000 on https://jk2333.com 
+[2022-10-06 09:17:45 : INFO] - WP: 6.0.2 
+[2022-10-06 09:17:45 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-06 09:17:45 : INFO] - MySQL: 8.0.24 
+[2022-10-06 09:17:45 : INFO] - WPLANG: zh_CN 
+[2022-10-06 09:17:45 : INFO] - Server: nginx/1.20.1 
+[2022-10-06 09:17:45 : INFO] - Outbound connections: N 
+[2022-10-06 09:17:45 : INFO] - safe_mode: 0 
+[2022-10-06 09:17:45 : INFO] - max_execution_time: 300 
+[2022-10-06 09:17:45 : INFO] - memory_limit: 256M (used: 14.5M | 2M) 
+[2022-10-06 09:17:45 : INFO] - multisite: N 
+[2022-10-06 09:17:45 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-06 09:17:45 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-06 09:17:45 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-10-06 09:17:45 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-10-06 09:17:45 : INFO] - Processing task with ID : 69, and type 'smush' 
+[2022-10-06 09:17:45 : INFO] - Task with ID 69 and type (smush) failed with error code invalid_file_type - /www/wwwroot/jk2333.com/wp-content/uploads/2022/09/人间难忘-封面首图.webp - cannot be optimized, it has an invalid file type 
+[2022-10-06 09:17:45 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-10-06 09:17:45 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-06 09:17:45 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-10-06 09:17:45 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-06 09:17:56 : INFO] - Re_Smush_It_Task with attachment ID : 1034, autocreated on : October 06, 2022 09:17:56 
+[2022-10-06 09:28:14 : INFO] - 
+ 
+[2022-10-06 09:28:14 : INFO] - Header for logs at time:  Thu, 06 Oct 2022 09:28:14 +0000 on https://jk2333.com 
+[2022-10-06 09:28:14 : INFO] - WP: 6.0.2 
+[2022-10-06 09:28:14 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-06 09:28:14 : INFO] - MySQL: 8.0.24 
+[2022-10-06 09:28:14 : INFO] - WPLANG: zh_CN 
+[2022-10-06 09:28:14 : INFO] - Server: nginx/1.20.1 
+[2022-10-06 09:28:14 : INFO] - Outbound connections: N 
+[2022-10-06 09:28:14 : INFO] - safe_mode: 0 
+[2022-10-06 09:28:14 : INFO] - max_execution_time: 300 
+[2022-10-06 09:28:14 : INFO] - memory_limit: 256M (used: 14.5M | 2M) 
+[2022-10-06 09:28:14 : INFO] - multisite: N 
+[2022-10-06 09:28:14 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-06 09:28:14 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-06 09:28:14 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-10-06 09:28:14 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-10-06 09:28:14 : INFO] - Processing task with ID : 70, and type 'smush' 
+[2022-10-06 09:28:14 : INFO] - Re_Smush_It_Task with attachment ID : 1034, autocreated on : October 06, 2022 09:17:56 
+[2022-10-06 09:28:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-06 09:28:14 : INFO] - 75 
+[2022-10-06 09:28:17 : INFO] - Backing up the original image - 2022/09/人间世-updraft-pre-smush-original.png 
+[2022-10-06 09:28:17 : INFO] - Re_Smush_It_Task with attachment ID : 1034, autocreated on : October 06, 2022 09:17:56 
+[2022-10-06 09:28:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-06 09:28:17 : INFO] - 75 
+[2022-10-06 09:28:18 : INFO] - Re_Smush_It_Task with attachment ID : 1034, autocreated on : October 06, 2022 09:17:56 
+[2022-10-06 09:28:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-06 09:28:18 : INFO] - 75 
+[2022-10-06 09:28:21 : INFO] - Re_Smush_It_Task with attachment ID : 1034, autocreated on : October 06, 2022 09:17:56 
+[2022-10-06 09:28:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-06 09:28:21 : INFO] - 75 
+[2022-10-06 09:28:22 : INFO] - Re_Smush_It_Task with attachment ID : 1034, autocreated on : October 06, 2022 09:17:56 
+[2022-10-06 09:28:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-06 09:28:22 : INFO] - 75 
+[2022-10-06 09:28:24 : INFO] - Re_Smush_It_Task with attachment ID : 1034, autocreated on : October 06, 2022 09:17:56 
+[2022-10-06 09:28:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-06 09:28:24 : INFO] - 75 
+[2022-10-06 09:28:27 : INFO] - Re_Smush_It_Task with attachment ID : 1034, autocreated on : October 06, 2022 09:17:56 
+[2022-10-06 09:28:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-06 09:28:27 : INFO] - 75 
+[2022-10-06 09:28:30 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/09/人间世.png. 
+[2022-10-06 09:28:30 : INFO] - Completed processing task with ID : 70, and type 'smush' 
+[2022-10-06 09:28:30 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-10-06 09:28:30 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-06 09:28:30 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-10-06 09:28:30 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-06 09:32:24 : INFO] - Re_Smush_It_Task with attachment ID : 1035, autocreated on : October 06, 2022 09:32:23 
+[2022-10-06 09:40:06 : INFO] - 
+ 
+[2022-10-06 09:40:06 : INFO] - Header for logs at time:  Thu, 06 Oct 2022 09:40:06 +0000 on https://jk2333.com 
+[2022-10-06 09:40:06 : INFO] - WP: 6.0.2 
+[2022-10-06 09:40:06 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-06 09:40:06 : INFO] - MySQL: 8.0.24 
+[2022-10-06 09:40:06 : INFO] - WPLANG: zh_CN 
+[2022-10-06 09:40:06 : INFO] - Server: nginx/1.20.1 
+[2022-10-06 09:40:06 : INFO] - Outbound connections: N 
+[2022-10-06 09:40:06 : INFO] - safe_mode: 0 
+[2022-10-06 09:40:06 : INFO] - max_execution_time: 300 
+[2022-10-06 09:40:06 : INFO] - memory_limit: 256M (used: 14.5M | 2M) 
+[2022-10-06 09:40:06 : INFO] - multisite: N 
+[2022-10-06 09:40:06 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-06 09:40:06 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-06 09:40:06 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-10-06 09:40:06 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-10-06 09:40:06 : INFO] - Processing task with ID : 71, and type 'smush' 
+[2022-10-06 09:40:06 : INFO] - Task with ID 71 and type (smush) failed with error code invalid_file_type - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/Cyberpunk.Edgerunners-1.webp - cannot be optimized, it has an invalid file type 
+[2022-10-06 09:40:06 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-10-06 09:40:06 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-06 09:40:06 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-10-06 09:40:06 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-06 09:50:13 : INFO] - 
+ 
+[2022-10-06 09:50:13 : INFO] - Header for logs at time:  Thu, 06 Oct 2022 09:50:13 +0000 on https://jk2333.com 
+[2022-10-06 09:50:13 : INFO] - WP: 6.0.2 
+[2022-10-06 09:50:13 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-06 09:50:13 : INFO] - MySQL: 8.0.24 
+[2022-10-06 09:50:13 : INFO] - WPLANG: zh_CN 
+[2022-10-06 09:50:13 : INFO] - Server: nginx/1.20.1 
+[2022-10-06 09:50:13 : INFO] - Outbound connections: N 
+[2022-10-06 09:50:13 : INFO] - safe_mode: 0 
+[2022-10-06 09:50:13 : INFO] - max_execution_time: 300 
+[2022-10-06 09:50:13 : INFO] - memory_limit: 256M (used: 14.5M | 2M) 
+[2022-10-06 09:50:13 : INFO] - multisite: N 
+[2022-10-06 09:50:13 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-06 09:50:13 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-10-06 12:53:13 : INFO] - Re_Smush_It_Task with attachment ID : 1038, autocreated on : October 06, 2022 12:53:13 
+[2022-10-06 12:55:06 : INFO] - Re_Smush_It_Task with attachment ID : 1040, autocreated on : October 06, 2022 12:55:06 
+[2022-10-06 12:59:07 : INFO] - 
+ 
+[2022-10-06 12:59:07 : INFO] - Header for logs at time:  Thu, 06 Oct 2022 12:59:07 +0000 on https://jk2333.com 
+[2022-10-06 12:59:07 : INFO] - WP: 6.0.2 
+[2022-10-06 12:59:07 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-06 12:59:07 : INFO] - MySQL: 8.0.24 
+[2022-10-06 12:59:07 : INFO] - WPLANG: zh_CN 
+[2022-10-06 12:59:07 : INFO] - Server: nginx/1.20.1 
+[2022-10-06 12:59:07 : INFO] - Outbound connections: N 
+[2022-10-06 12:59:07 : INFO] - safe_mode: 0 
+[2022-10-06 12:59:07 : INFO] - max_execution_time: 300 
+[2022-10-06 12:59:07 : INFO] - memory_limit: 256M (used: 14.5M | 2M) 
+[2022-10-06 12:59:07 : INFO] - multisite: N 
+[2022-10-06 12:59:07 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-06 12:59:07 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2022-10-06 12:59:07 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-10-06 12:59:07 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-10-06 12:59:07 : INFO] - Processing task with ID : 72, and type 'smush' 
+[2022-10-06 12:59:07 : INFO] - Task with ID 72 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-10-06 12:59:07 : INFO] - Processing task with ID : 73, and type 'smush' 
+[2022-10-06 12:59:07 : INFO] - Task with ID 73 and type (smush) failed with error code invalid_file_type - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/iMac-1.webp - cannot be optimized, it has an invalid file type 
+[2022-10-06 12:59:07 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-10-06 12:59:07 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2022-10-06 12:59:07 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-10-06 12:59:07 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2022-10-06 13:10:19 : INFO] - 
+ 
+[2022-10-06 13:10:19 : INFO] - Header for logs at time:  Thu, 06 Oct 2022 13:10:19 +0000 on https://jk2333.com 
+[2022-10-06 13:10:19 : INFO] - WP: 6.0.2 
+[2022-10-06 13:10:19 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-06 13:10:19 : INFO] - MySQL: 8.0.24 
+[2022-10-06 13:10:19 : INFO] - WPLANG: zh_CN 
+[2022-10-06 13:10:19 : INFO] - Server: nginx/1.20.1 
+[2022-10-06 13:10:19 : INFO] - Outbound connections: N 
+[2022-10-06 13:10:19 : INFO] - safe_mode: 0 
+[2022-10-06 13:10:19 : INFO] - max_execution_time: 300 
+[2022-10-06 13:10:19 : INFO] - memory_limit: 256M (used: 14.5M | 2M) 
+[2022-10-06 13:10:19 : INFO] - multisite: N 
+[2022-10-06 13:10:19 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-06 13:10:19 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-10-07 09:26:39 : INFO] - Re_Smush_It_Task with attachment ID : 1067, autocreated on : October 07, 2022 09:26:39 
+[2022-10-07 09:33:44 : INFO] - 
+ 
+[2022-10-07 09:33:44 : INFO] - Header for logs at time:  Fri, 07 Oct 2022 09:33:44 +0000 on https://jk2333.com 
+[2022-10-07 09:33:44 : INFO] - WP: 6.0.2 
+[2022-10-07 09:33:44 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-07 09:33:44 : INFO] - MySQL: 8.0.24 
+[2022-10-07 09:33:44 : INFO] - WPLANG: zh_CN 
+[2022-10-07 09:33:44 : INFO] - Server: nginx/1.20.1 
+[2022-10-07 09:33:44 : INFO] - Outbound connections: N 
+[2022-10-07 09:33:44 : INFO] - safe_mode: 0 
+[2022-10-07 09:33:44 : INFO] - max_execution_time: 300 
+[2022-10-07 09:33:44 : INFO] - memory_limit: 256M (used: 14.5M | 2M) 
+[2022-10-07 09:33:44 : INFO] - multisite: N 
+[2022-10-07 09:33:44 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-07 09:33:44 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-07 09:33:44 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-10-07 09:33:44 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-10-07 09:33:44 : INFO] - Processing task with ID : 74, and type 'smush' 
+[2022-10-07 09:33:44 : INFO] - Task with ID 74 and type (smush) failed with error code invalid_file_type - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/cropped-Cyberpunk.Edgerunners.webp - cannot be optimized, it has an invalid file type 
+[2022-10-07 09:33:44 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-10-07 09:33:44 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-07 09:33:44 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-10-07 09:33:44 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-07 09:45:08 : INFO] - 
+ 
+[2022-10-07 09:45:08 : INFO] - Header for logs at time:  Fri, 07 Oct 2022 09:45:08 +0000 on https://jk2333.com 
+[2022-10-07 09:45:08 : INFO] - WP: 6.0.2 
+[2022-10-07 09:45:08 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-07 09:45:08 : INFO] - MySQL: 8.0.24 
+[2022-10-07 09:45:08 : INFO] - WPLANG: zh_CN 
+[2022-10-07 09:45:08 : INFO] - Server: nginx/1.20.1 
+[2022-10-07 09:45:08 : INFO] - Outbound connections: N 
+[2022-10-07 09:45:08 : INFO] - safe_mode: 0 
+[2022-10-07 09:45:08 : INFO] - max_execution_time: 300 
+[2022-10-07 09:45:08 : INFO] - memory_limit: 256M (used: 16.4M | 2M) 
+[2022-10-07 09:45:08 : INFO] - multisite: N 
+[2022-10-07 09:45:08 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-07 09:45:08 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-10-07 14:27:21 : INFO] - Re_Smush_It_Task with attachment ID : 1084, autocreated on : October 07, 2022 02:27:21 
+[2022-10-07 14:32:22 : INFO] - 
+ 
+[2022-10-07 14:32:22 : INFO] - Header for logs at time:  Fri, 07 Oct 2022 14:32:22 +0000 on https://jk2333.com 
+[2022-10-07 14:32:22 : INFO] - WP: 6.0.2 
+[2022-10-07 14:32:22 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-07 14:32:22 : INFO] - MySQL: 8.0.24 
+[2022-10-07 14:32:22 : INFO] - WPLANG: zh_CN 
+[2022-10-07 14:32:22 : INFO] - Server: nginx/1.20.1 
+[2022-10-07 14:32:22 : INFO] - Outbound connections: N 
+[2022-10-07 14:32:22 : INFO] - safe_mode: 0 
+[2022-10-07 14:32:22 : INFO] - max_execution_time: 300 
+[2022-10-07 14:32:22 : INFO] - memory_limit: 256M (used: 17.7M | 2M) 
+[2022-10-07 14:32:22 : INFO] - multisite: N 
+[2022-10-07 14:32:22 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-07 14:32:22 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-07 14:32:22 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-10-07 14:32:22 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-10-07 14:32:22 : INFO] - Processing task with ID : 75, and type 'smush' 
+[2022-10-07 14:32:22 : INFO] - Re_Smush_It_Task with attachment ID : 1084, autocreated on : October 07, 2022 02:27:21 
+[2022-10-07 14:32:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-07 14:32:22 : INFO] - 75 
+[2022-10-07 14:32:23 : INFO] - Backing up the original image - 2022/10/Course-BG-updraft-pre-smush-original.png 
+[2022-10-07 14:32:23 : INFO] - Re_Smush_It_Task with attachment ID : 1084, autocreated on : October 07, 2022 02:27:21 
+[2022-10-07 14:32:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-07 14:32:23 : INFO] - 75 
+[2022-10-07 14:32:24 : INFO] - Re_Smush_It_Task with attachment ID : 1084, autocreated on : October 07, 2022 02:27:21 
+[2022-10-07 14:32:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-07 14:32:24 : INFO] - 75 
+[2022-10-07 14:32:25 : INFO] - Re_Smush_It_Task with attachment ID : 1084, autocreated on : October 07, 2022 02:27:21 
+[2022-10-07 14:32:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-07 14:32:25 : INFO] - 75 
+[2022-10-07 14:32:25 : INFO] - Re_Smush_It_Task with attachment ID : 1084, autocreated on : October 07, 2022 02:27:21 
+[2022-10-07 14:32:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-07 14:32:25 : INFO] - 75 
+[2022-10-07 14:32:26 : INFO] - Re_Smush_It_Task with attachment ID : 1084, autocreated on : October 07, 2022 02:27:21 
+[2022-10-07 14:32:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-07 14:32:26 : INFO] - 75 
+[2022-10-07 14:32:27 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/2022/10/Course-BG.png. 
+[2022-10-07 14:32:27 : INFO] - Completed processing task with ID : 75, and type 'smush' 
+[2022-10-07 14:32:27 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-10-07 14:32:27 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-07 14:32:27 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-10-07 14:32:27 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-07 14:37:26 : INFO] - Re_Smush_It_Task with attachment ID : 1093, autocreated on : October 07, 2022 02:37:26 
+[2022-10-07 14:42:40 : INFO] - 
+ 
+[2022-10-07 14:42:40 : INFO] - Header for logs at time:  Fri, 07 Oct 2022 14:42:40 +0000 on https://jk2333.com 
+[2022-10-07 14:42:40 : INFO] - WP: 6.0.2 
+[2022-10-07 14:42:40 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-07 14:42:40 : INFO] - MySQL: 8.0.24 
+[2022-10-07 14:42:40 : INFO] - WPLANG: zh_CN 
+[2022-10-07 14:42:40 : INFO] - Server: nginx/1.20.1 
+[2022-10-07 14:42:40 : INFO] - Outbound connections: N 
+[2022-10-07 14:42:40 : INFO] - safe_mode: 0 
+[2022-10-07 14:42:40 : INFO] - max_execution_time: 300 
+[2022-10-07 14:42:40 : INFO] - memory_limit: 256M (used: 17.6M | 2M) 
+[2022-10-07 14:42:40 : INFO] - multisite: N 
+[2022-10-07 14:42:40 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-07 14:42:40 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-07 14:42:40 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-10-07 14:42:40 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-10-07 14:42:40 : INFO] - Processing task with ID : 76, and type 'smush' 
+[2022-10-07 14:42:40 : INFO] - Re_Smush_It_Task with attachment ID : 1093, autocreated on : October 07, 2022 02:37:26 
+[2022-10-07 14:42:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-07 14:42:40 : INFO] - 75 
+[2022-10-07 14:42:42 : INFO] - Backing up the original image - elementor/screenshots/Elementor-post-screenshot_1082_2022-10-07-14-37-26_230c0880-updraft-pre-smush-original.png 
+[2022-10-07 14:42:42 : INFO] - Successfully optimized the image - /www/wwwroot/jk2333.com/wp-content/uploads/elementor/screenshots/Elementor-post-screenshot_1082_2022-10-07-14-37-26_230c0880.png. 
+[2022-10-07 14:42:42 : INFO] - Completed processing task with ID : 76, and type 'smush' 
+[2022-10-07 14:42:42 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-10-07 14:42:42 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-07 14:42:42 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-10-07 14:42:42 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-07 14:52:41 : INFO] - 
+ 
+[2022-10-07 14:52:41 : INFO] - Header for logs at time:  Fri, 07 Oct 2022 14:52:41 +0000 on https://jk2333.com 
+[2022-10-07 14:52:41 : INFO] - WP: 6.0.2 
+[2022-10-07 14:52:41 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux racknerd-ddb33d 5.4.0-28-generic #32-Ubuntu SMP Wed Apr 22 17:40:10 UTC 2020 x86_64) 
+[2022-10-07 14:52:41 : INFO] - MySQL: 8.0.24 
+[2022-10-07 14:52:41 : INFO] - WPLANG: zh_CN 
+[2022-10-07 14:52:41 : INFO] - Server: nginx/1.20.1 
+[2022-10-07 14:52:41 : INFO] - Outbound connections: N 
+[2022-10-07 14:52:41 : INFO] - safe_mode: 0 
+[2022-10-07 14:52:41 : INFO] - max_execution_time: 300 
+[2022-10-07 14:52:41 : INFO] - memory_limit: 256M (used: 17.6M | 2M) 
+[2022-10-07 14:52:41 : INFO] - multisite: N 
+[2022-10-07 14:52:41 : INFO] - openssl: OpenSSL 1.0.2u  20 Dec 2019 
+[2022-10-07 14:52:41 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

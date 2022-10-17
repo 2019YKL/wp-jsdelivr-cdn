@@ -6116,3 +6116,18 @@ p > video {
 		padding: 0;
 	}
 }
+
+function webp_filter_mime_types( $array ) {
+	$array['webp'] = 'image/webp';
+	return $array;
+}
+add_filter( 'mime_types', 'webp_filter_mime_types', 10, 1 );
+
+function webp_file_is_displayable_image($result, $path) {
+	$info = @getimagesize( $path );
+	if($info['mime'] == 'image/webp') {
+		$result = true;
+	}
+	return $result;
+}
+add_filter( 'file_is_displayable_image', 'webp_file_is_displayable_image', 10, 2 );
